@@ -1,0 +1,21 @@
+{
+  "name": "r3d-website",
+  "version": "1.0.0",
+  "description": "R3D website",
+  "main": "index.js",
+  "scripts": {
+    "build": "nodemon -e js,pug,scss,yaml index.js",
+    "clear": "rm dist/*.html dist/*.css"
+  },
+  "author": "VVF Luxembourg S.A.",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.9.1",
+    "node-sass": "^4.5.3",
+    "pug": "^2.0.0-rc.3",
+    "pug-cli": "^1.0.0-alpha6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
