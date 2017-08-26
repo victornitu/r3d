@@ -1,0 +1,30 @@
+ul#i18n {
+  float: right;
+  list-style-type: none; }
+  ul#i18n li {
+    display: inline;
+    margin: 0.5em; }
+
+section.content {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none; }
+
+nav {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1; }
+  nav a {
+    text-decoration: none;
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s; }
+  nav a:hover {
+    background-color: #ddd; }
+  nav a.active {
+    background-color: #ccc; }

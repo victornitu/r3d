@@ -1,18 +1,15 @@
 doctype html
 html
     head
-        title #{i18n.head.title}
-        link(rel="stylesheet" href="styles.css")
+        include components/head
     body
-        ul#i18n
-            each lang in languages
-                li: a(href=`${lang}.html`) #{lang}
+        include components/language-selection
         h1 #{i18n.body.title}
         nav
             a.tab(href="#home" onclick="show(this, 'home')") home
             a.tab(href="#about" onclick="show(this, 'about')") about
         section#home.content
-            include sections/home
+            include components/home
         section#about.content
-            include sections/about
-        include sections/scripts
+            include components/about
+        include components/scripts

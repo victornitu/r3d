@@ -1,0 +1,11 @@
+{
+  "head": {
+    "title": "R3D",
+    "description": "Site web de R3D"
+  },
+  "body": {
+    "title": "Bienvenu sur R3D",
+    "home": "Bonjour, comment allez-vous?",
+    "about": "A propos de nous..."
+  }
+}

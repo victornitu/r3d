@@ -1,0 +1,21 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="description" content="R3D website"><title>R3D</title><link rel="stylesheet" href="styles.css"></head><body><ul id="i18n"><li><a href="en.html">en</a></li><li><a href="fr.html">fr</a></li></ul><h1>Welcome to R3D</h1><nav><a class="tab" href="#home" onclick="show(this, 'home')">home</a><a class="tab" href="#about" onclick="show(this, 'about')">about</a></nav><section class="content" id="home"><p>Hello user, how are you doing?</p></section><section class="content" id="about"><p>This is about us...</p></section><script>var tabs = document.getElementsByClassName('tab');
+var contents = document.getElementsByClassName('content');
+function show(caller, id) {
+    for (i = 0; i < contents.length; i++) {
+        contents[i].style.display = contents[i].id === id ? 'block' : 'none';
+    }
+    for (i = 0; i < tabs.length; i++) {
+        tabs[i].className = tabs[i].className.replace(" active", "");
+    }
+    caller.className += " active";
+}
+function select() {
+    var selection = location.hash || '#home';
+    for (i = 0; i < tabs.length; i++) {
+        if (tabs[i].getAttribute('href') === selection) {
+            tabs[i].click();
+        }
+    }
+}
+window.onhashchange = select;
+select();</script></body></html>
