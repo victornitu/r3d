@@ -1,7 +1,7 @@
 nav.navbar.navbar-expand-lg.navbar-dark.bg-transparent(role='navigation')
     .container.no-override
         a.navbar-brand(href='index.html')
-            img.d-none.d-lg-inline.mr-2.w-25(src='images/logo-alt-w.png')
+            img.d-none.d-lg-inline.mr-2.w-25(src='../images/logo-alt-w.png')
             |         R3D
         button.navbar-toggler(data-toggle='collapse', data-target='#navbar-collapse')
             span.navbar-toggler-icon
@@ -9,23 +9,26 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-transparent(role='navigation')
             ul.navbar-nav
                 li.nav-item.active.dropdown
                     a.nav-link.dropdown-toggle(href='index.html', data-toggle='dropdown')
-                        | Home
+                        | #{i18n.nav.home}
                         i.ion-chevron-down
                     .dropdown-menu(role='menu')
-                        a.dropdown-item(href='index.html#services') Services
-                        a.dropdown-item(href='index.html#reviews') Reviews
-                        a.dropdown-item(href='index.html#clients') Clients
+                        a.dropdown-item(href='index.html#services') #{i18n.nav.services}
+                        a.dropdown-item(href='index.html#reviews') #{i18n.nav.reviews}
+                        a.dropdown-item(href='index.html#clients') #{i18n.nav.clients}
                 li.nav-item.dropdown
                     a.nav-link.dropdown-toggle(href='#', data-toggle='dropdown')
-                        | 3D Printing
+                        | #{i18n.nav["3d-printing"]}
                 li.nav-item.dropdown
                     a.nav-link.dropdown-toggle(href='#', data-toggle='dropdown')
-                        | 3D Design
+                        | #{i18n.nav["3d-design"]}
                 li.nav-item.dropdown
                     a.nav-link.dropdown-toggle(href='#', data-toggle='dropdown')
-                        | Projects
+                        | #{i18n.nav.projects}
                 li.nav-item.dropdown.dropdown-extend
                     a.nav-link.dropdown-toggle(href='#', data-toggle='dropdown')
-                        | Contact
+                        | #{i18n.nav.contact}
                 li.nav-item
-                    a.nav-link.nav-link--rounded(href='#') Shop
+                    a.nav-link.nav-link--rounded(href='#') #{i18n.nav.shop}
+    ul#i18n
+        each lang in languages
+            li: a(href=`../${lang}/index.html`) #{lang}

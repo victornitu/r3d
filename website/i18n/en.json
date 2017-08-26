@@ -1,11 +1,22 @@
 {
-  "head": {
-    "title": "R3D",
-    "description": "R3D website"
-  },
-  "body": {
-    "title": "Welcome to R3D",
-    "home": "Hello user, how are you doing?",
-    "about": "This is about us..."
-  }
+    "head": {
+        "title": "R3D",
+        "description": "R3D website"
+    },
+    "header": {
+        "title": "3D Printing Santiago",
+        "subtitle": "Print all your stuff in 3D",
+        "action": "Quote your project here"
+    },
+    "nav": {
+        "home": "Home",
+        "3d-printing": "3D Printing",
+        "3d-design": "3D Design",
+        "projects": "Projects",
+        "contact": "Contact",
+        "shop": "Shop",
+        "services": "Services",
+        "reviews": "Reviews",
+        "clients": "Clients"
+    }
 }

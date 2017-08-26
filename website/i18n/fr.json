@@ -1,11 +1,22 @@
 {
-  "head": {
-    "title": "R3D",
-    "description": "Site web de R3D"
-  },
-  "body": {
-    "title": "Bienvenu sur R3D",
-    "home": "Bonjour, comment allez-vous?",
-    "about": "A propos de nous..."
-  }
+    "head": {
+        "title": "R3D",
+        "description": "Site web de R3D"
+    },
+    "header": {
+        "title": "Impression 3D Santiago",
+        "subtitle": "Imprime toutes tes trucs en 3D",
+        "action": "Citez votre projet ici"
+    },
+    "nav": {
+        "home": "Accueil",
+        "3d-printing": "Impression 3D",
+        "3d-design": "Design 3D",
+        "projects": "Projets",
+        "contact": "Contact",
+        "shop": "Shop",
+        "services": "Services",
+        "reviews": "Avis",
+        "clients": "Clients"
+    }
 }

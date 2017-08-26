@@ -1,2 +1,4 @@
-dist/*.html
-dist/styles.css
+dist/
+!dist/fonts/
+!dist/images/
+!dist/lib/
