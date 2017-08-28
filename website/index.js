@@ -5,6 +5,8 @@ const write = promisify(writeFile)
 const render = promisify(sass.render)
 const pug = require('pug')
 
+const {languages, pages} = require('./config/default.json')
+
 const writeHtml = async (name, language, html) => {
     await write(`dist/${language}/${name}.html`, html)
     console.log(`Page ${name} generated in ${language}`)
@@ -15,8 +17,6 @@ const writeCss = async _ => {
     await write('dist/styles/main.css', style.css)
     console.log('Style generated')
 }
-
-const languages = ['en', 'fr']
 
 const compiler = name => {
     const compiledFunction = pug.compileFile(`src/${name}.pug`)
@@ -31,13 +31,15 @@ const compiler = name => {
 }
 
 const main = async _ => {
-    const compileIndex = compiler('index')
-    try {
-        await writeCss()
-        await languages.forEach(compileIndex)
-    } catch (err) {
-        console.error(err)
-    }
+    await writeCss()
+    await Promise.all(pages.map(async p => {
+        const compileIndex = compiler(p)
+        try {
+            await Promise.all(languages.map(compileIndex))
+        } catch (err) {
+            console.error(err)
+        }
+    }))
 }
 
 main()
