@@ -33,9 +33,9 @@ const compiler = name => {
 const main = async _ => {
     await writeCss()
     await Promise.all(pages.map(async p => {
-        const compileIndex = compiler(p)
+        const compilePage = compiler(p)
         try {
-            await Promise.all(languages.map(compileIndex))
+            await Promise.all(languages.map(compilePage))
         } catch (err) {
             console.error(err)
         }
