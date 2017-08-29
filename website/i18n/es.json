@@ -22,5 +22,20 @@
     "contact_info": {
         "email": "Email",
         "phone": "Teléfono"
+    },
+    "design_header": {
+        "title": "Servicios de diseño 3D"
+    },
+    "design_introduction": {
+        "text": "Te convertimos tu idea en un archivo 3D"
+    },
+    "design_how": {
+        "title": "Como diseñamos?",
+        "scratch_title": "Diseñar a partir de zero",
+        "scratch_text": "Podemos diseñar a partir de tus instrucciones.",
+        "scanner_title": "Escáner 3D",
+        "scanner_text": "Podemos escanear en 3D.",
+        "logo_title": "Diseñar a partir de una imagen",
+        "logo_text": "Podemos hacer un diseño a partir de un logo o una imagen."
     }
 }
