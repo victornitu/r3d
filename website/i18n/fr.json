@@ -18,5 +18,8 @@
         "services": "Services",
         "reviews": "Avis",
         "clients": "Clients"
+    },
+    "contact_info": {
+        "email": "Courrier électronique"
     }
 }

@@ -18,5 +18,9 @@
         "services": "Services",
         "reviews": "Reviews",
         "clients": "Clients"
+    },
+    "contact_info": {
+        "email": "Email",
+        "phone": "phone"
     }
 }
