@@ -1,10 +1,11 @@
 {
   "languages": [
     "en",
-    "fr"
+    "es"
   ],
   "pages": [
     "index",
+    "design",
     "contact"
   ]
 }

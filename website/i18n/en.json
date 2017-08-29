@@ -21,6 +21,15 @@
     },
     "contact_info": {
         "email": "Email",
-        "phone": "phone"
+        "phone": "Phone"
+    },
+    "design_header": {
+        "title": "3D Design Services"
+    },
+    "design_introduction": {
+        "text": "3D Design is converting an idea in a computer file."
+    },
+    "design_how": {
+        "title": "How do we design?"
     }
 }
