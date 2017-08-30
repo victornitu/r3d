@@ -18,5 +18,24 @@
         "services": "Services",
         "reviews": "Reviews",
         "clients": "Clients"
+    },
+    "contact_info": {
+        "email": "Email",
+        "phone": "Phone"
+    },
+    "design_header": {
+        "title": "3D Design Services"
+    },
+    "design_introduction": {
+        "text": "3D Design is converting an idea in a computer file."
+    },
+    "design_how": {
+        "title": "How do we design?",
+        "scratch_title": "Design from scratch",
+        "scratch_text": "We can design from scratch following your instructions.",
+        "scanner_title": "3D Scan",
+        "scanner_text": "We can scan in 3D.",
+        "logo_title": "Design from logo/image",
+        "logo_text": "We can do the design from an image."
     }
 }
