@@ -9,26 +9,26 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-transparent(role='navigation')
       ul.navbar-nav
         li.nav-item.active.dropdown
           a.nav-link.dropdown-toggle(href='index.html')
-            | #{i18n.nav.home}
+            | #{i18n.section.home}
             i.ion-chevron-down
           .dropdown-menu(role='menu')
-            a.dropdown-item(href='index.html#services') #{i18n.nav.services}
-            a.dropdown-item(href='index.html#reviews') #{i18n.nav.reviews}
-            a.dropdown-item(href='index.html#clients') #{i18n.nav.clients}
+            a.dropdown-item(href='index.html#services') #{i18n.section.services}
+            a.dropdown-item(href='index.html#reviews') #{i18n.section.reviews}
+            a.dropdown-item(href='index.html#clients') #{i18n.section.clients}
         li.nav-item.dropdown
           a.nav-link.dropdown-toggle(href='3dprinting.html')
-            | #{i18n.nav["3d-printing"]}
+            | #{i18n.section.printing_3d}
         li.nav-item.dropdown
           a.nav-link.dropdown-toggle(href='design.html')
-            | #{i18n.nav["3d-design"]}
+            | #{i18n.section.design_3d}
         li.nav-item.dropdown
           a.nav-link.dropdown-toggle(href='projects')
-            | #{i18n.nav.projects}
+            | #{i18n.section.projects}
         li.nav-item.dropdown.dropdown-extend
           a.nav-link.dropdown-toggle(href='contact.html')
-            | #{i18n.nav.contact}
+            | #{i18n.section.contact}
         li.nav-item
-          a.nav-link.nav-link--rounded(href='#') #{i18n.nav.shop}
+          a.nav-link.nav-link--rounded(href='#') #{i18n.section.shop}
   ul#i18n
     each lang in languages
       li: a(href=`../${lang}/index.html`) #{lang}
