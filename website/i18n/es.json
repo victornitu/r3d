@@ -40,5 +40,45 @@
     },
     "services": {
         "title": "Nuestros servicios"
+    },
+    "contact_header": {
+        "title": "Contactanos"
+    },
+    "printing_header": {
+        "title": "Servicios de impresión 3D"
+    },
+    "printing_intro": {
+        "text": "La impresión 3D permite convertir un archivo de computador into un object en 3 dimensiones. Tienes un proyecto, un sueño? Quieres imprimir algo?"
+    },
+    "printing_industries": {
+        "title": "Aplicaciones de impresión 3D",
+        "prototypes": "Prototipos",
+        "gifts": "Regalos corporativos",
+        "architecture": "Architectura",
+        "decoration": "Decoración",
+        "gadget": "Objectos utiles",
+        "imagination": "La unica limitación es tu imaginación"
+    },
+    "printing_limitations": {
+        "title": "Limitaciones de la impresión 3D",
+        "intro": "Estamos especializados en impresión 3D por \"Fused Model Deposition\" (FDM). Aquí tienes un resumen de lo que se puede hacer.",
+        "materials_title": "Materiales",
+        "materials_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "color_title": "Colores",
+        "color_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "size_title": "Tamano",
+        "size_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price_title": "Precio",
+        "price_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    "printing_tutorial": {
+        "title": "Tutorial",
+        "intro": "Imprimir en 3D con nosotros es muy fácil y se hace en 3 etapas:",
+        "file_title": "Archivo 3D",
+        "file_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "quote_title": "Cotizar",
+        "quote_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "delivery_title": "Entrega",
+        "delivery_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     }
 }

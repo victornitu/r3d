@@ -40,5 +40,45 @@
     },
     "services": {
         "title": "Our services"
+    },
+    "contact_header": {
+        "title": "Contact us"
+    },
+    "printing_header": {
+        "title": "3D Printing Services"
+    },
+    "printing_intro": {
+        "text": "3D Printing makes it possible to convert a computer file into a 3-dimensional. You have a project, a dream? You want to print something?"
+    },
+    "printing_industries": {
+        "title": "3D Printing Industries",
+        "prototypes": "Prototypes",
+        "gifts": "Corporate gifts",
+        "architecture": "Architecture",
+        "decoration": "Decoration",
+        "gadget": "Useful tools",
+        "imagination": "The only limit is your imagination!"
+    },
+    "printing_limitations": {
+        "title": "Limitations of 3D Printing",
+        "intro": "Were are specialized in 3D printing using Fused Model Deposition (FDM). Here you have a summary of what can and what cannot be done.",
+        "materials_title": "Materials",
+        "materials_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "color_title": "Colors",
+        "color_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "size_title": "Size",
+        "size_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price_title": "Price",
+        "price_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    "printing_tutorial": {
+        "title": "Tutorial",
+        "intro": "3D Printing with us is very easy and can be done in 3 steps",
+        "file_title": "Get a 3D file",
+        "file_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "quote_title": "Quote",
+        "quote_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "delivery_title": "Delivery",
+        "delivery_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     }
 }
