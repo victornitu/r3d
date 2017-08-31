@@ -1,7 +1,31 @@
 section#reviews.business-single-client(data-scroll='')
-  .quote-wrapper
-    img.logo(src='../images/example.png')
-    p
-      | "Focus on creating and growing your projects and websites, and we‘ll take care of spinning up new designs for your users and making sure they’re great. Work with all types of customers right out of the box while still getting great results in your environment."
-    .author
-      | John Smith, Product Designer
+  #carouselExampleIndicators.quote-wrapper.carousel.slide(data-ride="carousel")
+    ol.carousel-indicators
+      li(data-target="#carouselExampleIndicators" data-slide-to="0").active
+      li(data-target="#carouselExampleIndicators" data-slide-to="1")
+      li(data-target="#carouselExampleIndicators" data-slide-to="2")
+    .carousel-inner(role="listbox")
+      .carousel-item.active
+        img.logo.d-block.img-fluid(src='../images/example.png' alt="First slide")
+        p
+          | "1. Focus on creating and growing your projects and websites, and we‘ll take care of spinning up new designs for your users and making sure they’re great. Work with all types of customers right out of the box while still getting great results in your environment."
+        .author
+          | John Smith, Product Designer
+      .carousel-item
+        img.logo.d-block.img-fluid(src='../images/example.png' alt="Second slide")
+        p
+          | "2. Focus on creating and growing your projects and websites, and we‘ll take care of spinning up new designs for your users and making sure they’re great. Work with all types of customers right out of the box while still getting great results in your environment."
+        .author
+          | John Smith, Product Designer
+      .carousel-item
+        img.logo.d-block.img-fluid(src='../images/example.png' alt="Third slide")
+        p
+          | "3. Focus on creating and growing your projects and websites, and we‘ll take care of spinning up new designs for your users and making sure they’re great. Work with all types of customers right out of the box while still getting great results in your environment."
+        .author
+          | John Smith, Product Designer
+      a.carousel-control-prev(href='#carouselExampleIndicators', role='button', data-slide='prev')
+        span.carousel-control-prev-icon(aria-hidden='true')
+        span.sr-only Previous
+      a.carousel-control-next(href='#carouselExampleIndicators', role='button', data-slide='next')
+        span.carousel-control-next-icon(aria-hidden='true')
+        span.sr-only Next
