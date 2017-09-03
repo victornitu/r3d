@@ -1,4 +1,3 @@
-dist/
-!dist/fonts/
-!dist/images/
-!dist/lib/
+dist/en/
+dist/es/
+dist/styles/
