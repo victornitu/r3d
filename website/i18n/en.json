@@ -83,5 +83,15 @@
     },
     "projects": {
         "title": "Some of our Projects"
+    },
+    "clients": {
+        "title": "They trusted us"
+    },
+    "reviews": {
+        "next": "Next",
+        "previous": "Previous"
+    },
+    "nav": {
+        "more_info": "More info"
     }
 }
