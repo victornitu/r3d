@@ -24,8 +24,56 @@ header.contact {
 
 #services {
   text-align: center;
+  .feature{
+    img{
+      height: 200px;
+    }
+  }
 }
 
 #reviews {
-  background-color: black;
+  background: url(../images/seller.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
+
+.printing{
+  .agency-about-hero{
+    background: url(../images/printed_parts.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .spacial-features{
+    section.container{
+      .feature{
+        img{
+          height: 150px;
+        }
+      }
+    }
+  }
+  .limitations{
+    .index-features{
+      .container{
+        section.features{
+          img.icon{
+            height: 50px;
+          }
+        }
+      }
+    }
+  }
+  .tutorial{
+    .index-features{
+      .container{
+        section.features{
+          img.icon{
+            height: 50px;
+          }
+        }
+      }
+  }
+  }
+}
+
+
