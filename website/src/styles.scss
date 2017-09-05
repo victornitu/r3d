@@ -54,25 +54,35 @@ header.contact {
   }
   .limitations{
     .index-features{
-      .container{
-        section.features{
-          img.icon{
-            height: 50px;
-          }
+      section.features{
+        img.icon{
+          height: 50px;
         }
-      }
+      } 
     }
   }
   .tutorial{
     .index-features{
-      .container{
-        section.features{
-          img.icon{
-            height: 50px;
-          }
+      section.features{
+        img.icon{
+          height: 50px;
         }
-      }
+      }     
+    }
   }
+}
+.design{
+  .agency-about-hero{
+    background: url(../images/design.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .spacial-features{
+    .feature{
+      img{
+        height: 150px;
+      }
+    }
   }
 }
 
