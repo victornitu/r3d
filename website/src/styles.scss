@@ -1,3 +1,9 @@
+@import 'index/index'; 
+@import 'design/design'; 
+@import 'contact/contact'; 
+@import 'contact/contact';
+@import 'printing/printing';
+
 ul#i18n {
   float: right;
   list-style-type: none;
@@ -7,90 +13,15 @@ ul#i18n {
   }
 }
 
-header.business-hero {
-  background: url(../images/creator-pro-workshop.jpg);
-  .container {
-    h2.customFadeInUp {
-      text-transform: uppercase;
-    }
-  }
-}
-
-header.contact {
-  color: white;
-  background-color: black;
-  padding: 8em;
-}
-
-#services {
-  text-align: center;
-  .feature{
-    img{
-      height: 200px;
-    }
-  }
-}
-
-#reviews {
-  background: url(../images/seller.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.printing{
-  .agency-about-hero{
-    background: url(../images/printed_parts.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-  .spacial-features{
-    section.container{
-      .feature{
+nav.navbar{
+  .container{
+    a.navbar-brand{
+      .logo_r3d{
         img{
-          height: 150px;
+        width:auto !important;
+        height:50px
         }
       }
     }
   }
-  .limitations{
-    .index-features{
-      section.features{
-        img.icon{
-          height: 50px;
-        }
-      } 
-    }
-  }
-  .tutorial{
-    .index-features{
-      section.features{
-        img.icon{
-          height: 50px;
-        }
-      }     
-    }
-  }
 }
-.design{
-  .agency-about-hero{
-    background: url(../images/design.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-  .spacial-features{
-    .feature{
-      img{
-        height: 150px;
-      }
-    }
-  }
-}
-
-.contact{
-  .agency-alt-hero{
-      background: url(../images/makerspace.jpg);
-      background-size: cover;
-      background-repeat: no-repeat;
-  }
-}
-
