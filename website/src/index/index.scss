@@ -1,29 +1,38 @@
-header.business-hero {
-  background: url(../images/creator-pro-workshop.jpg);
-  .container {
-    h2.customFadeInUp {
-      text-transform: uppercase;
+.index{
+  header.business-hero {
+    background: url(../images/creator-pro-workshop.jpg);
+    .container {
+      h2.customFadeInUp {
+        text-transform: uppercase;
+      }
     }
   }
-}
 
-header.contact {
-  color: white;
-  background-color: black;
-  padding: 8em;
-}
+  header.contact {
+    color: white;
+    background-color: black;
+    padding: 8em;
+  }
 
-#services {
-  text-align: center;
-  .feature{
-    img{
-      height: 200px;
+  #services {
+    text-align: center;
+    .feature{
+      img{
+        height: 300px;
+      }
+      button
+      a{
+        color:white;
+      }
     }
   }
-}
 
-#reviews {
-  background: url(../images/seller.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
+  #reviews {
+    background: url(../images/seller.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #reviews-carousel{
+    height: 300px;
+  }
 }

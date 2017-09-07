@@ -36,7 +36,14 @@
         "shop": "Shop",
         "services": "Services",
         "reviews": "Reviews",
-        "clients": "Clients"
+        "clients": "Clients",
+        "printing_industries": "Applications",
+        "printing_limitations": "Limitations",
+        "printing_tutorial": "Tutorial",
+        "design_introduction": "Introduction",
+        "design_how": "How",
+        "contact_info": "Contact info",
+        "contact_map": "Map"
     },
     "services": {
         "title": "Our services"

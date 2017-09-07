@@ -1,3 +1,4 @@
+script(src='../js/smooth_scroll.js')
 nav.navbar.navbar-expand-lg.navbar-dark.bg-transparent(role='navigation')
   .container.no-override
     a.navbar-brand(href='index.html')
@@ -8,25 +9,33 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-transparent(role='navigation')
     #navbar-collapse.collapse.navbar-collapse.justify-content-end
       ul.navbar-nav
         li.nav-item.active.dropdown
-          a.nav-link.dropdown-toggle(href='index.html')
-            | #{i18n.section.home}
+          a.nav-link.dropdown-toggle(href='index.html') #{i18n.section.home}
             i.ion-chevron-down
           .dropdown-menu(role='menu')
             a.dropdown-item(href='index.html#services') #{i18n.section.services}
             a.dropdown-item(href='index.html#reviews') #{i18n.section.reviews}
             a.dropdown-item(href='index.html#clients') #{i18n.section.clients}
         li.nav-item.dropdown
-          a.nav-link.dropdown-toggle(href='printing.html')
-            | #{i18n.section.printing_3d}
+          a.nav-link.dropdown-toggle(href='printing.html') #{i18n.section.printing_3d}
+            i.ion-chevron-down
+          .dropdown-menu(role='menu')
+            a.dropdown-item(href='printing.html#printing_industries') #{i18n.section.printing_industries}
+            a.dropdown-item(href='printing.html#printing_limitations') #{i18n.section.printing_limitations}
+            a.dropdown-item(href='printing.html#printing_tutorial') #{i18n.section.printing_tutorial}
         li.nav-item.dropdown
-          a.nav-link.dropdown-toggle(href='design.html')
-            | #{i18n.section.design_3d}
+          a.nav-link.dropdown-toggle(href='design.html') #{i18n.section.design_3d}
+            i.ion-chevron-down
+          .dropdown-menu(role='menu')
+            a.dropdown-item(href='design.html#design_introduction') #{i18n.section.design_introduction}
+            a.dropdown-item(href='design.html#design_how') #{i18n.section.design_how}
         li.nav-item.dropdown
-          a.nav-link.dropdown-toggle(href='projects.html')
-            | #{i18n.section.projects}
+          a.nav-link.dropdown-toggle(href='projects.html') #{i18n.section.projects}
         li.nav-item.dropdown.dropdown-extend
-          a.nav-link.dropdown-toggle(href='contact.html')
-            | #{i18n.section.contact}
+          a.nav-link.dropdown-toggle(href='contact.html') #{i18n.section.contact}
+            i.ion-chevron-down
+          .dropdown-menu(role='menu')
+            a.dropdown-item(href='contact.html#contact_info') #{i18n.section.contact_info}
+            a.dropdown-item(href='contact.html#contact_map') #{i18n.section.contact_map}
         li.nav-item
           a.nav-link.nav-link--rounded(href='#') #{i18n.section.shop}
   ul#i18n

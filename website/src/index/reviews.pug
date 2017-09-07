@@ -1,31 +1,25 @@
-section#reviews.business-single-client(data-scroll='')
-  #reviews-carousel.quote-wrapper.carousel.slide(data-ride="carousel")
-    ol.carousel-indicators
-      li(data-target="#reviews-carousel" data-slide-to="0").active
-      li(data-target="#reviews-carousel" data-slide-to="1")
-      li(data-target="#reviews-carousel" data-slide-to="2")
-    .carousel-inner(role="listbox")
-      .carousel-item.active
-        img.logo.d-block.img-fluid(src='../images/customer/customer-1.jpg' alt="Second slide")
-        p
-          | Best company and service ever
-        .author
-          | Mia Snow, Product Designer
-      .carousel-item
-        img.logo.d-block.img-fluid(src='../images/customer/customer-2.jpg' alt="Second slide")
-        p
-          | Great company and service
-        .author
-          | Jane Doe, Product Manager
-      .carousel-item
-        img.logo.d-block.img-fluid(src='../images/customer/customer-3.jpg' alt="Second slide")
-        p
-          | I love the company
-        .author
-          | John Smith, CEO
-      a.carousel-control-prev(href='#reviews-carousel', role='button', data-slide='prev')
-        span.carousel-control-prev-icon(aria-hidden='true')
-        span.sr-only #{i18n.reviews.previous}
-      a.carousel-control-next(href='#reviews-carousel', role='button', data-slide='next')
-        span.carousel-control-next-icon(aria-hidden='true')
-        span.sr-only #{i18n.reviews.next}
+.index
+  section#reviews.business-single-client(data-scroll='')
+    #reviews-carousel.quote-wrapper.carousel.slide(data-ride="carousel")
+      .carousel-inner(role="listbox")
+        .carousel-item.active
+          p
+            | Best company and service ever
+          .author
+            | Mia Snow, Product Designer
+        .carousel-item
+          p
+            | Great company and service
+          .author
+            | Jane Doe, Product Manager
+        .carousel-item
+          p
+            | I love the company
+          .author
+            | John Smith, CEO
+        a.carousel-control-prev(href='#reviews-carousel', role='button', data-slide='prev')
+          span.carousel-control-prev-icon(aria-hidden='true')
+          span.sr-only #{i18n.reviews.previous}
+        a.carousel-control-next(href='#reviews-carousel', role='button', data-slide='next')
+          span.carousel-control-next-icon(aria-hidden='true')
+          span.sr-only #{i18n.reviews.next}
