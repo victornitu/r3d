@@ -100,5 +100,12 @@
     },
     "nav": {
         "more_info": "More info"
+    },
+    "footer": {
+        "description": "3D Printing services and development of engineering projects.",
+        "address_title": "Address",
+        "address_line1": "Avenida Italia 850, Providencia",
+        "address_line2": "R.M. Santiago Chile",
+        "contact_title": "Contact"
     }
 }

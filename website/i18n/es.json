@@ -100,5 +100,12 @@
     },
     "nav": {
         "more_info": "Más información"
+    },
+    "footer": {
+        "description": "Servicios de impresión en 3D y desarrollo de proyectos de ingeniería.",
+        "address_title": "Dirección",
+        "address_line1": "Avenida Italia 850,",
+        "address_line2": "Providencia R.M. Santiago Chile",
+        "contact_title": "Contacto"
     }
 }
