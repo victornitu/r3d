@@ -1,6 +1,6 @@
 $(function () {
   // Google maps
-  var mapLocation = new google.maps.LatLng(32.689593,-117.18039);
+  var mapLocation = new google.maps.LatLng(-33.442552,-70.62585310000003);
   var map = new GMaps({
   streetViewControl : false,
   overviewMapControl: false,
@@ -93,6 +93,6 @@ $(function () {
   });
   map.addMarker({
   position: mapLocation,
-  icon: 'images/icons/map-icon.png'
+  icon: '../images/map-icon.png'
   });
   });

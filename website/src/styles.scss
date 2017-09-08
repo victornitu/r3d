@@ -39,5 +39,13 @@ nav.navbar{
   }
 }
 .agency-footer{
-  margin-top:0px;
+  //background: white;
+  a.social{
+    i.fa-linkedin{
+      position: absolute;
+      top:5px;
+      left:8px;
+      //background: black
+    }
+  }
 }
