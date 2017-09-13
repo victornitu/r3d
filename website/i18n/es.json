@@ -5,7 +5,7 @@
     },
     "header": {
         "title": "Impresión 3D Santiago",
-        "subtitle": "Imprime todas tus cosas en 3D",
+        "subtitle": "Somos una empresa Belga-Chilena especializada en impresión 3D",
         "action": "Cotiza tu proyecto aquí"
     },
     "contact_info": {
@@ -46,7 +46,10 @@
         "contact_map": "Mapa"
     },
     "services": {
-        "title": "Nuestros servicios"
+        "title": "Nuestros servicios",
+        "printing": "Servicios de impresión 3D",
+        "design": "Servicios de diseño 3D",
+        "shop": "Material para impresión 3D"
     },
     "contact_header": {
         "title": "Contactanos"
@@ -92,7 +95,7 @@
         "title": "Unos de nuestros proyectos"
     },
     "clients": {
-        "title": "Ellos confiaron en nosotros"
+        "title": "Nos confiaron"
     },
     "reviews": {
         "next": "Siguiente",
@@ -107,5 +110,8 @@
         "address_line1": "Avenida Italia 850,",
         "address_line2": "Providencia R.M. Santiago Chile",
         "contact_title": "Contacto"
+    },
+    "a": {
+        "a": "a"
     }
 }
