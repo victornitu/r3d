@@ -2,21 +2,12 @@
   section#reviews.business-single-client(data-scroll='')
     #reviews-carousel.quote-wrapper.carousel.slide(data-ride="carousel")
       .carousel-inner(role="listbox")
-        .carousel-item.active
-          p
-            | Best company and service ever
-          .author
-            | Mia Snow, Product Designer
-        .carousel-item
-          p
-            | Great company and service
-          .author
-            | Jane Doe, Product Manager
-        .carousel-item
-          p
-            | I love the company
-          .author
-            | John Smith, CEO
+        for review in reviews
+          .carousel-item.active
+            p #{i18n.reviews.review.text}
+            .author #{i18n.reviews.review.author}
+          
+          
         a.carousel-control-prev(href='#reviews-carousel', role='button', data-slide='prev')
           span.carousel-control-prev-icon(aria-hidden='true')
           span.sr-only #{i18n.reviews.previous}
