@@ -2,15 +2,18 @@
   section#reviews.business-single-client(data-scroll='')
     #reviews-carousel.quote-wrapper.carousel.slide(data-ride="carousel")
       .carousel-inner(role="listbox")
-        each review in common.reviews
-          .carousel-item.active
-            p #{review.text}
-            .author #{review.author}
-          
-          
-        a.carousel-control-prev(href='#reviews-carousel', role='button', data-slide='prev')
-          span.carousel-control-prev-icon(aria-hidden='true')
-          span.sr-only #{i18n.reviews.previous}
-        a.carousel-control-next(href='#reviews-carousel', role='button', data-slide='next')
-          span.carousel-control-next-icon(aria-hidden='true')
-          span.sr-only #{i18n.reviews.next}
+        each review, index in common.reviews
+          if index === 0
+            .carousel-item.active
+              p #{review.text}
+              .author #{review.author}
+          else
+            .carousel-item
+              p #{review.text}
+              .author #{review.author}
+          a.carousel-control-prev(href='#reviews-carousel', role='button', data-slide='prev')
+            span.carousel-control-prev-icon(aria-hidden='true')
+            span.sr-only #{i18n.reviews.previous}
+          a.carousel-control-next(href='#reviews-carousel', role='button', data-slide='next')
+            span.carousel-control-next-icon(aria-hidden='true')
+            span.sr-only #{i18n.reviews.next}
