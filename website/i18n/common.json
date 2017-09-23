@@ -1,36 +1,48 @@
 {
   "reviews":{
-    "review1-text":"Como conocedor de su lampara hecha en 3D quiero expresar mi confianza y admiración en esta brillante idea, que sin duda muestra la capacidad profesional, emprendedora y trabajo en equipo de nuestros jóvenes profesionales en el mundo",
-    "review1-author":"Patrick De Beyter - Embajador de Bélgica",
-    
-    "review2-text":"Muy recomendado, excelentes impresiones y muy conocedor del tema.",
-    "review2-author":"Celeste B.",
-    
-    "review3-text":"Communication was good and fast as well as the print.",
-    "review3-author":"Michael L.",  
-    
-    "review4-text":"Estoy increíblemente agradecido. Tuvieron mi pedido en menos de 3 días, con entrega un día sabado! Fuera de esto super comunicativos y las piezas con una calidad impecable Los recomiendo una y mil veces! Muchísimas gracias!",
-    "review4-author":"Javier L.", 
-    
-    "review5-text":"Great service, habe been in contact all along for choice of material.",
-    "review5-author":"Mark D.",
-    
-    "review6-text":"Excelente Hub! Me ayudaron a imprimir mi diseño antes del tiempo acordado. Gran servicio",
-    "review6-author":"Federico",
-    
-    "review7-text":"Great print!",
-    "review7-author":"Victor W.",
-    
-    "review8-text":"Everything as expected or even better.",
-    "review8-author":"Hernan T.",
-    
-    "review9-text":"Great and fast print! I recommend Roger.",
-    "review9-author":"Sebastian G.",
-    
-    "review10-text":"Roger provided an excellent print, a great service with a good speed!",
-    "review10-author":"Federico",
-    
-    "review11-text":"Recomendable",
-    "review12-author":"Alonso Z.",
+    {
+      "text":"Como conocedor de su lampara hecha en 3D quiero expresar mi confianza y admiración en esta brillante idea, que sin duda muestra la capacidad profesional, emprendedora y trabajo en equipo de nuestros jóvenes profesionales en el mundo",
+      "author":"Patrick De Beyter - Embajador de Bélgica"
+    },
+    {
+    "text":"Muy recomendado, excelentes impresiones y muy conocedor del tema.",
+    "author":"Celeste B."
+    },
+    {
+    "text":"Communication was good and fast as well as the print.",
+    "author":"Michael L." 
+    },
+    {
+    "text":"Estoy increíblemente agradecido. Tuvieron mi pedido en menos de 3 días, con entrega un día sabado! Fuera de esto super comunicativos y las piezas con una calidad impecable Los recomiendo una y mil veces! Muchísimas gracias!",
+    "author":"Javier L."
+    },
+    {
+    "text":"Great service, habe been in contact all along for choice of material.",
+    "author":"Mark D."
+    },
+    {
+    "text":"Excelente Hub! Me ayudaron a imprimir mi diseño antes del tiempo acordado. Gran servicio",
+    "author":"Federico"
+    },
+    {
+    "text":"Great print!",
+    "author":"Victor W."
+    },
+    {
+    "text":"Everything as expected or even better.",
+    "author":"Hernan T."
+    },
+    {
+    "text":"Great and fast print! I recommend Roger.",
+    "author":"Sebastian G."
+    },
+    {
+    "text":"Roger provided an excellent print, a great service with a good speed!",
+    "uthor":"Federico"
+    },
+    {
+    "text":"Recomendable",
+    "author":"Alonso Z."
+    }
   }
 }
