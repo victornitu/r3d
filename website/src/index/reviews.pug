@@ -2,10 +2,10 @@
   section#reviews.business-single-client(data-scroll='')
     #reviews-carousel.quote-wrapper.carousel.slide(data-ride="carousel")
       .carousel-inner(role="listbox")
-        for review in reviews
+        each review in common.reviews
           .carousel-item.active
-            p #{i18n.reviews.review.text}
-            .author #{i18n.reviews.review.author}
+            p #{review.text}
+            .author #{review.author}
           
           
         a.carousel-control-prev(href='#reviews-carousel', role='button', data-slide='prev')
