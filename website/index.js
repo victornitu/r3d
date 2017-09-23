@@ -19,11 +19,12 @@ const writeCss = async _ => {
 }
 
 const compiler = name => {
+	const common = require('./i18n/common.json')
     const compiledFunction = pug.compileFile(`src/${name}.pug`)
     return async language => {
         try {
             const i18n = require(`./i18n/${language}.json`)
-            await writeHtml(name, language, compiledFunction({languages, i18n}))
+            await writeHtml(name, language, compiledFunction({common, languages, i18n}))
         } catch (err) {
             console.error(err)
         }
@@ -43,3 +44,4 @@ const main = async _ => {
 }
 
 main()
+
