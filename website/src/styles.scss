@@ -4,16 +4,8 @@
 @import 'contact/contact';
 @import 'printing/printing';
 
-ul#i18n {
-  float: right;
-  list-style-type: none;
-  li {
-    display: inline;
-    margin: 0.5em;
-  }
-}
-
 nav.navbar{
+  z-index: 2;
   .container{
     //margin-right: 500px !important;
     a.navbar-brand{
@@ -26,6 +18,13 @@ nav.navbar{
     }
   }
   ul#i18n{
+    display:none;
+    float: right;
+    list-style-type: none;
+    li {
+      display: inline;
+      margin: 0.5em;
+    }
     width:150px;
     li{
       margin:3px;
@@ -35,9 +34,32 @@ nav.navbar{
           width:25px;
         }
       }
+    } 
+  }
+  @media screen and (min-width: 992px) {
+    ul#i18n{
+      display:inline;
     }
   }
 }
+
+.mobile_lang_switch{
+  position: absolute;
+  z-index:1;
+  top: 100px;
+  right:50px;
+  img{
+    width:50px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .mobile_lang_switch{
+    display:none;
+  }
+}
+
+
 .agency-footer{
   //background: white;
   a.social{

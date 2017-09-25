@@ -113,5 +113,9 @@
     },
     "a": {
         "a": "a"
+    },
+    "mobile_lang_switch": {
+        "file_location": "../es/index.html",
+        "image_location": "../images/cl.png"
     }
 }
