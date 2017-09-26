@@ -24,7 +24,7 @@ const compiler = name => {
     return async language => {
         try {
             const i18n = require(`./i18n/${language}.json`)
-            await writeHtml(name, language, compiledFunction({common, languages, i18n}))
+            await writeHtml(name, language, compiledFunction({language, languages, common, i18n}))
         } catch (err) {
             console.error(err)
         }

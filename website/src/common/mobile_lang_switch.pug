@@ -1,5 +1,7 @@
 
 .mobile_lang_switch
-  li
-    a(href=" #{i18n.section.services} ")
-      img(src='../images/cl.png')
+  each lang in languages
+    if lang !== language
+      li
+        a(href=`../${lang}/index.html`)
+          img(src=`../images/${lang}.png`)

@@ -39,12 +39,8 @@ nav.navbar.navbar-expand-md.navbar-dark.bg-transparent(role='navigation')
         li.nav-item
           a.nav-link.nav-link--rounded(href='#') #{i18n.section.shop}
     ul#i18n
-      li
-        a(href=`../es/index.html`)
-          img(src='../images/cl.png')
-      li
-        a(href=`../en/index.html`)
-          img(src='../images/uk.png')
-    //each lang in languages
-      li: a(href=`../${lang}/index.html`) #{lang}
-    
+      each lang in languages
+        li
+          a(href=`../${lang}/index.html`)
+            img(src=`../images/${lang}.png`)
+
