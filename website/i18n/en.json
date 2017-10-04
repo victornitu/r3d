@@ -46,7 +46,10 @@
         "contact_map": "Map"
     },
     "services": {
-        "title": "Our services"
+        "title": "Our services",
+        "printing": "3D Printing Services",
+        "design": "3D Design Services",
+        "shop": ""
     },
     "contact_header": {
         "title": "Contact us"
@@ -99,7 +102,7 @@
         "previous": "Previous"
     },
     "nav": {
-        "more_info": "More info"
+        "more_info": "More information"
     },
     "footer": {
         "description": "3D Printing services and development of engineering projects.",
@@ -107,5 +110,12 @@
         "address_line1": "Avenida Italia 850, Providencia",
         "address_line2": "R.M. Santiago Chile",
         "contact_title": "Contact"
+    },
+    "a": {
+        "a": ""
+    },
+    "mobile_lang_switch": {
+        "file_location": "",
+        "image_location": ""
     }
 }

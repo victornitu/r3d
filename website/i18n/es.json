@@ -16,22 +16,22 @@
         "title": "Servicios de diseño 3D"
     },
     "design_introduction": {
-        "text": "Te convertimos tu idea en un archivo 3D"
+        "text": "¿Tienes una idea o un proyecto? ¿Pero no tienes nada más? Te diseñamos lo diseñamos en 3D. Lo cual puedes usar luego para hacer impresiones 3D o usar para otros fines."
     },
     "design_how": {
-        "title": "Como diseñamos?",
-        "scratch_title": "Diseñar a partir de zero",
-        "scratch_text": "Podemos diseñar a partir de tus instrucciones.",
+        "title": "¿Como diseñamos?",
+        "scratch_title": "Diseño a partir de zero",
+        "scratch_text": "Cuentanos tu proyecto por mail, por teléfono o pasa a visitarnos. En base de tus instrucciones hacemos el diseño.",
         "scanner_title": "Escáner 3D",
         "scanner_text": "Podemos escanear en 3D.",
-        "logo_title": "Diseñar a partir de una imagen",
-        "logo_text": "Podemos hacer un diseño a partir de un logo o una imagen."
+        "logo_title": "Diseño a partir de una imagen",
+        "logo_text": "También podemos hacer un diseño 3D a partir de una imagen 2D. Puede ser un logo, una imagen o texto. No dudes en contactarnos para contarnos sobre tu proyecto. "
     },
     "section": {
         "home": "Inicio",
         "printing_3d": "Impresión 3D",
         "design_3d": "Diseño 3D",
-        "projects": "Proyecto",
+        "projects": "Proyectos",
         "contact": "Contacto",
         "shop": "Shop",
         "services": "Servicios",
@@ -49,7 +49,7 @@
         "title": "Nuestros servicios",
         "printing": "Servicios de impresión 3D",
         "design": "Servicios de diseño 3D",
-        "shop": "Material para impresión 3D"
+        "shop": "Venta de productos hechos por impresión 3D"
     },
     "contact_header": {
         "title": "Contactanos"
