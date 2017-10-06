@@ -58,10 +58,10 @@
         "title": "Servicios de impresión 3D"
     },
     "printing_intro": {
-        "text": "La impresión 3D permite convertir un archivo de computador into un object en 3 dimensiones. Tienes un proyecto, un sueño? Quieres imprimir algo?"
+        "text": "Somos expertos en impresión 3D por FDM (Fused Model Deposition). Está tecnología permite reconstruir cualquier forma geometrica, capa por capa, a partir de un diseño 3D."
     },
     "printing_industries": {
-        "title": "Aplicaciones de impresión 3D",
+        "title": "Aplicaciones",
         "prototypes": "Prototipos",
         "gifts": "Regalos corporativos",
         "architecture": "Architectura",
@@ -73,23 +73,23 @@
         "title": "Limitaciones de la impresión 3D",
         "intro": "Estamos especializados en impresión 3D por \"Fused Model Deposition\" (FDM). Aquí tienes un resumen de lo que se puede hacer.",
         "materials_title": "Materiales",
-        "materials_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "materials_text": "El material más utilizado en impresión 3D es el PLA. Este plástico hecho a partir de plantas, no solo es bueno para el medioambiante (biodegradable) pero también tiene un costo barato y genera impresiones muy finas. ABS, el secundo material más usado es un plástico más tradicional. Se usa sobre todo cuando uno requiere piezas con mayor resistencia mecánica o resistencia a la temperatura. Si tu proyecto necesita algo más especial, existen una gran variedad de otros materiales más “exóticos”: imitación madera, imitación metal, filamento flexible etc.",
         "color_title": "Colores",
-        "color_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "color_text": "PLA y ABS estan disponible en una gran variedad de colores: blanco, negro, rojo, naranja, amarillo, verde, azul, violeta, marón.",
         "size_title": "Tamano",
-        "size_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "size_text": "Nuestras impresoras pueden imprimir piezas hasta un tamaño de 25 x 21 x 20 cm. Para cosas más grandes, se pueden hacer en varias partes.",
         "price_title": "Precio",
-        "price_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "price_text": "El precio se calcula a partir del modelo 3D. Un programa estima el peso que va a tener la pieza y cobramos por gramo. Más grande la pieza, más va a pesar y mayor será su costo."
     },
     "printing_tutorial": {
         "title": "Tutorial",
         "intro": "Imprimir en 3D con nosotros es muy fácil y se hace en 3 etapas:",
-        "file_title": "Archivo 3D",
-        "file_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "quote_title": "Cotizar",
-        "quote_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "delivery_title": "Entrega",
-        "delivery_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "file_title": "Consigue el archivo 3D",
+        "file_text": "El archivo puede ser de formato STL o OBJ. Se puede conseguir a partir cualquier programa de diseño 3D. ¿No sabes diseñar en 3D o no tienes tiempo? Ofrecemos servicios de diseño 3D. También se puede encontrar muchos diseños en Internet. El sitio Thingiverse por ejemplo ya tiene millones de diseños que se pueden descargar de forma gratuita. ",
+        "quote_title": "Cotiza tu diseño",
+        "quote_text": "Envianos el diseño por mail y te contestaremos en la brevedad con una cotización. Aquí están nuestros datos de contacto. ",
+        "delivery_title": "Recibe tu pieza",
+        "delivery_text": "Puedes pasar a buscar tu pieza en nuestra oficina o también tenemos opción de despacho. El precio depende de la región de despacho."
     },
     "projects": {
         "title": "Unos de nuestros proyectos"
