@@ -16,11 +16,11 @@
         "title": "Servicios de diseño 3D"
     },
     "design_introduction": {
-        "text": "¿Tienes una idea o un proyecto? ¿Pero no tienes nada más? Te diseñamos lo diseñamos en 3D. Lo cual puedes usar luego para hacer impresiones 3D o usar para otros fines."
+        "text": "¿Tienes una idea o un proyecto? ¿Pero no sabes cómo hacer tu diseño en 3D? ¡Te lo diseñamos nosotros! Para luego llegar a imprimirlo o usarlo para otros fines."
     },
     "design_how": {
         "title": "¿Como diseñamos?",
-        "scratch_title": "Diseño a partir de zero",
+        "scratch_title": "Diseño a partir de cero",
         "scratch_text": "Cuentanos tu proyecto por mail, por teléfono o pasa a visitarnos. En base de tus instrucciones hacemos el diseño.",
         "scanner_title": "Escáner 3D",
         "scanner_text": "Podemos escanear en 3D.",
@@ -36,7 +36,7 @@
         "shop": "Shop",
         "services": "Servicios",
         "reviews": "Recomendaciones",
-        "clients": "Clientos",
+        "clients": "Clientes",
         "printing_industries": "Aplicaciones",
         "printing_limitations": "Limitaciones",
         "printing_tutorial": "Tutorial",
@@ -73,7 +73,7 @@
         "title": "Limitaciones de la impresión 3D",
         "intro": "Estamos especializados en impresión 3D por \"Fused Model Deposition\" (FDM). Aquí tienes un resumen de lo que se puede hacer.",
         "materials_title": "Materiales",
-        "materials_text": "El material más utilizado en impresión 3D es el PLA. Este plástico hecho a partir de plantas, no solo es bueno para el medioambiante (biodegradable) pero también tiene un costo barato y genera impresiones muy finas. ABS, el secundo material más usado es un plástico más tradicional. Se usa sobre todo cuando uno requiere piezas con mayor resistencia mecánica o resistencia a la temperatura. Si tu proyecto necesita algo más especial, existen una gran variedad de otros materiales más “exóticos”: imitación madera, imitación metal, filamento flexible etc.",
+        "materials_text": "Utilizamos el plástico PLA que está hecho a partir de plantas (biodegradable) y además genera impresiones muy finas. El ABS, que es un plástico más tradicional, se usa cuando uno requiere piezas con mayor resistencia mecánica o resistencia a la temperatura. Si tu proyecto necesita algo más especial, también tenemos una gran variedad de otros materiales: imitación madera, imitación metal, filamento flexible etc.",
         "color_title": "Colores",
         "color_text": "PLA y ABS estan disponible en una gran variedad de colores: blanco, negro, rojo, naranja, amarillo, verde, azul, violeta, marón.",
         "size_title": "Tamano",
