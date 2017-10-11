@@ -94,6 +94,16 @@
     "projects": {
         "title": "Unos de nuestros proyectos"
     },
+    "our_projects":[
+      {
+        "title": "Communication was good and fast as well as the print.",
+        "text": "Communication was good and fast as well as the print."
+      },
+      {
+        "title": "Communication was good and fast as well as the print.",
+        "text": "Communication was good and fast as well as the print."
+      }
+    ],
     "clients": {
         "title": "Nos confiaron"
     },
