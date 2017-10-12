@@ -4,17 +4,31 @@
     section.container
       h1 #{i18n.projects.title}
 
+
+
   .blog-cols-wrapper
     .container
+      //.post.uno
+        .post-wrapper
+          //.post-bg(style="background-image:url=`../images/${project.image}`")
+          img(src=`../images/projects/entel.jpg`, data-trigger='zoomerang')
+          .post-intro
+            .post-title hola
+            p.post-description yapo
       each project in i18n.our_projects
-        a.post(href='blog-post.html')
+        .post
           .post-wrapper
-            .post-bg(style="background-image: url('../images/ragnar.jpg');")
+            //.post-bg(style="background-image:url=`../images/${project.image}`")
+            img(src=`../images/projects/${project.image}`)
             .post-intro
               .post-title #{project.title}
               p.post-description #{project.text}
+
+//script(src='../js/projects_bug_resolve.js')
       
       //
+        `../${lang}/index.html`
+        
         a.post(href='blog-post.html')
           .post-wrapper
             .post-bg(style="background-image: url('../images/arma.jpg');")

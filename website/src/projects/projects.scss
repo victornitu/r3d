@@ -1,6 +1,26 @@
-@media screen and (min-width: 992px) {
-  .project_header{
-    height:85px;
-    background: #282f37;
+.projects{
+  @media screen and (min-width: 992px) {
+    .project_header{
+      height:85px;
+      background: #282f37;
+    }
+  }
+  .blog-cols-wrapper{
+    .container{
+      .post.uno{
+        .post-wrapper{
+          img{
+            width: 30px !important;
+            z-index: 100;
+          }
+        }
+      }
+      .post-wrapper{
+        img{
+          width: 330px;
+        }
+      }
+      
+    }
   }
 }
