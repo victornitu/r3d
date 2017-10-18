@@ -21,7 +21,7 @@
     "design_how": {
         "title": "¿Como diseñamos?",
         "scratch_title": "Diseño a partir de cero",
-        "scratch_text": "Cuentanos tu proyecto por mail, por teléfono o pasa a visitarnos. En base de tus instrucciones hacemos el diseño.",
+        "scratch_text": "Cuéntanos tu proyecto por mail, por teléfono o pasa a visitarnos. En base de tus instrucciones hacemos el diseño.",
         "scanner_title": "Escáner 3D",
         "scanner_text": "Podemos escanear en 3D.",
         "logo_title": "Diseño a partir de una imagen",
@@ -42,7 +42,7 @@
         "printing_tutorial": "Tutorial",
         "design_introduction": "Introdución",
         "design_how": "Como diseñamos",
-        "contact_info": "Info",
+        "contact_info": "Información",
         "contact_map": "Mapa"
     },
     "services": {
@@ -64,10 +64,10 @@
         "title": "Aplicaciones",
         "prototypes": "Prototipos",
         "gifts": "Regalos corporativos",
-        "architecture": "Architectura",
+        "architecture": "Arquitectura",
         "decoration": "Decoración",
         "gadgets": "Objectos utiles",
-        "imagination": "La unica limitación es tu imaginación"
+        "imagination": "La única limitación es tu imaginación"
     },
     "printing_limitations": {
         "title": "Limitaciones de la impresión 3D",
@@ -75,7 +75,7 @@
         "materials_title": "Materiales",
         "materials_text": "Utilizamos el plástico PLA que está hecho a partir de plantas (biodegradable) y además genera impresiones muy finas. El ABS, que es un plástico más tradicional, se usa cuando uno requiere piezas con mayor resistencia mecánica o resistencia a la temperatura. Si tu proyecto necesita algo más especial, también tenemos una gran variedad de otros materiales: imitación madera, imitación metal, filamento flexible etc.",
         "color_title": "Colores",
-        "color_text": "PLA y ABS estan disponible en una gran variedad de colores: blanco, negro, rojo, naranja, amarillo, verde, azul, violeta, marón.",
+        "color_text": "PLA y ABS están disponible en una gran variedad de colores: blanco, negro, rojo, naranja, amarillo, verde, azul, violeta, marón.",
         "size_title": "Tamano",
         "size_text": "Nuestras impresoras pueden imprimir piezas hasta un tamaño de 25 x 21 x 20 cm. Para cosas más grandes, se pueden hacer en varias partes.",
         "price_title": "Precio",
@@ -87,7 +87,7 @@
         "file_title": "Consigue el archivo 3D",
         "file_text": "El archivo puede ser de formato STL o OBJ. Se puede conseguir a partir cualquier programa de diseño 3D. ¿No sabes diseñar en 3D o no tienes tiempo? Ofrecemos servicios de diseño 3D. También se puede encontrar muchos diseños en Internet. El sitio Thingiverse por ejemplo ya tiene millones de diseños que se pueden descargar de forma gratuita. ",
         "quote_title": "Cotiza tu diseño",
-        "quote_text": "Envianos el diseño por mail y te contestaremos en la brevedad con una cotización. Aquí están nuestros datos de contacto. ",
+        "quote_text": "Envíanos el diseño por mail y te contestaremos en la brevedad con una cotización. Aquí están nuestros datos de contacto. ",
         "delivery_title": "Recibe tu pieza",
         "delivery_text": "Puedes pasar a buscar tu pieza en nuestra oficina o también tenemos opción de despacho. El precio depende de la región de despacho."
     },
@@ -97,8 +97,8 @@
     "our_projects":[
       {
         "title": "Mini Torres Entel",
-        "text": "Imprimimos las torres de Entel para el concurso de Melón en Facebook.",
-        "image": "entel.jpg"
+        "text": "Imprimimos las torres de Entel para el concurso de Melón en las redes sociales.",
+        "image": "melon_instagram.jpg"
       },
       {
         "title": "Pendrives",
@@ -107,7 +107,7 @@
       },
       {
         "title": "Tyrion Lanister",
-        "text": "Premio en Nerd Night organizada por la Casa de Goethe!",
+        "text": "Premio en Nerd Night organizada por la Casa de Goethe.",
         "image": "thyron.jpg"
       },
       {

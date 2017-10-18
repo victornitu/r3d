@@ -16,16 +16,16 @@
         "title": "3D Design Services"
     },
     "design_introduction": {
-        "text": "You have an idea or a project? But you don't have anymore? We can design it for you in 3D so that you can use it for 3D printing or something else."
+        "text": "You have an idea or a project? But you don't know how to make your design in 3D? We design it for you! Afterwards you can print it or use it for other uses."
     },
     "design_how": {
         "title": "How do we design?",
         "scratch_title": "Design from scratch",
-        "scratch_text": "We can design from scratch following your instructions.",
+        "scratch_text": "Tell us your project by mail, by phone or visit us. Based on your instructions we make the design.",
         "scanner_title": "3D Scan",
         "scanner_text": "We can scan in 3D.",
-        "logo_title": "Design from logo/image",
-        "logo_text": "We can do the design from an image."
+        "logo_title": "Design from an image",
+        "logo_text": "We can also make a 3D design from a 2D image. It can be a logo, an image or a text. Do not hesitate to contact us and tell us about your project."
     },
     "section": {
         "home": "Home",
@@ -58,67 +58,67 @@
         "title": "3D Printing Services"
     },
     "printing_intro": {
-        "text": "3D Printing makes it possible to convert a computer file into a 3-dimensional. You have a project, a dream? You want to print something?"
+        "text": "We are experts in Fusel Model Deposition 3D printing. This technology allows us to reconstruct any geometric form, layer by layer, starting from a 3D model."
     },
     "printing_industries": {
-        "title": "3D Printing Industries",
+        "title": "Applications",
         "prototypes": "Prototypes",
         "gifts": "Corporate gifts",
         "architecture": "Architecture",
         "decoration": "Decoration",
         "gadgets": "Useful tools",
-        "imagination": "The only limit is your imagination!"
+        "imagination": "Only imagination is your limitation!"
     },
     "printing_limitations": {
-        "title": "Limitations of 3D Printing",
+        "title": "What can be printed?",
         "intro": "Were are specialized in 3D printing using Fused Model Deposition (FDM). Here you have a summary of what can and what cannot be done.",
         "materials_title": "Materials",
-        "materials_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "materials_text": "We mostly use plastic PLA which is made up from plants (biodegradable) and also generates very fine prints. ABS, which is a more traditional plastic, it is used when one requires pieces with greater mechanical resistance or resistance to temperature. If your project needs something more special, we also have a great variety of other materials: imitation wood, imitation metal, flexible material etc.",
         "color_title": "Colors",
-        "color_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "color_text": "PLA and ABS are available in a wide variety of colors: white, black, red, orange, yellow, green, blue, violet, brown.",
         "size_title": "Size",
-        "size_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "size_text": "Our printers can print up to 25 x 21 x 20 cm. For bigger things, it can be done in separate parts.",
         "price_title": "Price",
-        "price_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "price_text": "The price is calculated from the 3D model. We use a program that estimates the weight the piece will have and we charge per gram. The larger the piece, the more it will weigh and the greater its cost."
     },
     "printing_tutorial": {
         "title": "Tutorial",
         "intro": "3D Printing with us is very easy and can be done in 3 steps",
         "file_title": "Get a 3D file",
-        "file_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "file_text": "The file can be from STL or OBJ format. You can get it from any 3D design program. You Don´t know how to design in 3D or don´t have time? We offer 3D design services. You can also find many designs on the Internet. The site Thingiverse for example already has millions of designs that can be downloaded for free.",
         "quote_title": "Quote",
-        "quote_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "quote_text": "Send us the design by mail and we will reply you soon with a quote. Here are our contact details",
         "delivery_title": "Delivery",
-        "delivery_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "delivery_text": "You can get your piece by coming to our office or we also offer delivery option. The price depends on the shipping region."
     },
     "projects": {
         "title": "Some of our Projects"
     },
     "our_projects":[
       {
-        "title": "Mini Torres Entel",
-        "text": "Imprimimos las torres de Entel para el concurso de Melón en Facebook.",
-        "image": "../images/entel.jpg"
+        "title": "Mini Entel Towers",
+        "text": "We designed and 3D printed the Entel Towers of Melon's marketing campaign on the social networks.",
+        "image": "melon_instagram.jpg"
       },
       {
         "title": "Pendrives",
-        "text": "Creamos e imprimimos los modelos de pendrives con la forma del medicamento necesario para las personas con distonía.",
-        "image": "../images/arma.jpg"
+        "text": "We designed and 3D printed these special USB keys with it's special bottle like shape. For the Distonia Fundation.",
+        "image": "pendrive.jpg"
       },
       {
         "title": "Tyrion Lanister",
-        "text": "Premio en Nerd Night organizada por la Casa de Goethe!",
-        "image": ""
+        "text": "Reward for the Nerd Night's tomobla organized by the House of Goethe",
+        "image": "thyron.jpg"
       },
       {
         "title": "Llaveros",
-        "text": "Solcor entrega su imagen de marca con estos llaveros. ",
-        "image": ""
+        "text": "Solcor delivers his brand image with these key chains.",
+        "image": "llaveros.jpg"
       },
       {
         "title": "Husky",
-        "text": "El robot Husky de la Universidad de Chile tiene sus sensores puestos gracias a piezas impresas por R3D",
-        "image": ""
+        "text": "The Husky robot of the Universidad de Chile uses R3D's printed parts in order to mount its sensors.",
+        "image": "husky.jpg"
       },
       {
         "title": "",
