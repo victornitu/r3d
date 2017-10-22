@@ -85,11 +85,18 @@
         "title": "Tutorial",
         "intro": "Imprimir en 3D con nosotros es muy fácil y se hace en 3 etapas:",
         "file_title": "Consigue el archivo 3D",
-        "file_text": "El archivo puede ser de formato STL o OBJ. Se puede conseguir a partir cualquier programa de diseño 3D. ¿No sabes diseñar en 3D o no tienes tiempo? Ofrecemos servicios de diseño 3D. También se puede encontrar muchos diseños en Internet. El sitio Thingiverse por ejemplo ya tiene millones de diseños que se pueden descargar de forma gratuita. ",
+        "file_text1": "El archivo puede ser de formato STL o OBJ. Se puede conseguir a partir cualquier programa de diseño 3D. ¿No sabes diseñar en 3D o no tienes tiempo? Ofrecemos ",
+        "file_link": "servicios de diseño 3D. ",
+        "file_text2": " ¿No sabes diseñar en 3D o no tienes tiempo? Ofrecemos servicios de diseño 3D. También se puede encontrar muchos diseños en Internet. El sitio ",
+				"file_text3": " por ejemplo ya tiene millones de diseños que se pueden descargar de forma gratuita. ",
         "quote_title": "Cotiza tu diseño",
-        "quote_text": "Envíanos el diseño por mail y te contestaremos en la brevedad con una cotización. Aquí están nuestros datos de contacto. ",
+        "quote_text1": "Envíanos el diseño por mail y te contestaremos en la brevedad con una cotización. ",
+				"quote_link": "Aquí ",
+				"quote_text2": "están nuestros datos de contacto. ",
         "delivery_title": "Recibe tu pieza",
-        "delivery_text": "Puedes pasar a buscar tu pieza en nuestra oficina o también tenemos opción de despacho. El precio depende de la región de despacho."
+        "delivery_text1": "Puedes pasar a buscar tu pieza en ",
+				"delivery_link": "nuestra oficina ",
+				"delivery_text2": "o también tenemos opción de despacho. El precio depende de la región de despacho."
     },
     "projects": {
         "title": "Unos de nuestros proyectos"
@@ -121,9 +128,29 @@
         "image": "husky.jpg"
       },
       {
-        "title": "",
+        "title": "Estadio Nacional",
+        "text": "Diseño e impresión del Estadio Nacional de Chile para la empresa Moovshake.",
+        "image": "estadio.jpg"
+      },
+			{
+        "title": "Portavasos",
+        "text": "Para la empresa ExeFire, un regalo para sus clientes.",
+        "image": "posavasos.jpg"
+      },
+			{
+        "title": "Mascaras",
+        "text": "Para una fiesta privada, con la temática del carnaval de Venecia.",
+        "image": "mascaras.jpg"
+      },
+			{
+        "title": "Piezas Lego",
+        "text": "Para charla Ted en Renca, como regalo para los que atienden.",
+        "image": "legos.jpg"
+      },
+			{
+        "title": "Repuestos Varios",
         "text": "",
-        "image": ""
+        "image": "arma.jpg"
       }
     ],
     "clients": {

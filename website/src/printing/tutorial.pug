@@ -9,16 +9,33 @@
           .row
             .col-md-4.feature
               section
-                img.icon(src='../images/design_icon.png')
+                img.icon(src='../images/icons/design_icon.png')
                 h4 #{i18n.printing_tutorial.file_title}
-                p #{i18n.printing_tutorial.file_text}
+                p
+                  | #{i18n.printing_tutorial.file_text1}
+                  a(href='design.html' target='_blank')
+                    | #{i18n.printing_tutorial.file_link}
+                  | #{i18n.printing_tutorial.file_text2}
+                  a(href='https://www.thingiverse.com/' target='_blank') Thingiverse 
+                  | #{i18n.printing_tutorial.file_text3}
+										
             .col-md-4.feature
               section
-                img.icon(src='../images/internet_icon.png')
+                img.icon(src='../images/icons/internet_icon.png')
                 h4 #{i18n.printing_tutorial.quote_title}
-                p #{i18n.printing_tutorial.quote_text}
+                p
+                  | #{i18n.printing_tutorial.quote_text1}
+                  a(href='contact.html#contact_info' target='_blank')
+                    | #{i18n.printing_tutorial.quote_link}
+                  | #{i18n.printing_tutorial.quote_text2}
+										
+                  
             .col-md-4.feature
               section
-                img.icon(src='../images/delivery.png')
+                img.icon(src='../images/icons/delivery.png')
                 h4 #{i18n.printing_tutorial.delivery_title}
-                p #{i18n.printing_tutorial.delivery_text}
+                p
+                  |#{i18n.printing_tutorial.delivery_text1}
+                  a(href='contact.html#map' target='_blank')
+                    |#{i18n.printing_tutorial.delivery_link}
+                  |#{i18n.printing_tutorial.delivery_text2}

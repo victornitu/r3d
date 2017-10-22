@@ -1,20 +1,20 @@
 script(src='../js/smooth_scroll.js')
 nav.navbar.navbar-expand-md.navbar-dark.bg-transparent(role='navigation')
   .container.no-override
-    a.navbar-brand(href='index.html')
+    a.navbar-brand(href='home.html')
       .logo_r3d
-        img.d-lg-inline.mr-2.w-25(src='../images/logo_white.png')
+        img.d-lg-inline.mr-2.w-25(src='../images/logos/logo_white.png')
     button.navbar-toggler(data-toggle='collapse', data-target='#navbar-collapse')
       span.navbar-toggler-icon
     #navbar-collapse.collapse.navbar-collapse.justify-content-end
       ul.navbar-nav
         li.nav-item.active.dropdown
-          a.nav-link.dropdown-toggle(href='index.html') #{i18n.section.home}
+          a.nav-link.dropdown-toggle(href='home.html') #{i18n.section.home}
             i.ion-chevron-down
           .dropdown-menu(role='menu')
-            a.dropdown-item(href='index.html#services') #{i18n.section.services}
-            a.dropdown-item(href='index.html#reviews') #{i18n.section.reviews}
-            a.dropdown-item(href='index.html#clients') #{i18n.section.clients}
+            a.dropdown-item(href='home.html#services') #{i18n.section.services}
+            a.dropdown-item(href='home.html#reviews') #{i18n.section.reviews}
+            a.dropdown-item(href='home.html#clients') #{i18n.section.clients}
         li.nav-item.dropdown
           a.nav-link.dropdown-toggle(href='printing.html') #{i18n.section.printing_3d}
             i.ion-chevron-down
@@ -39,6 +39,6 @@ nav.navbar.navbar-expand-md.navbar-dark.bg-transparent(role='navigation')
     ul#i18n
       each lang in languages
         li
-          a(href=`../${lang}/index.html`)
+          a(href=`../${lang}/home.html`)
             img(src=`../images/${lang}.png`)
 

@@ -58,7 +58,7 @@
         "title": "3D Printing Services"
     },
     "printing_intro": {
-        "text": "We are experts in Fusel Model Deposition 3D printing. This technology allows us to reconstruct any geometric form, layer by layer, starting from a 3D model."
+        "text": "We are experts in 3D printing by Fusel Model Deposition. This technology allows us to reconstruct any geometric form, layer by layer, starting from a 3D model."
     },
     "printing_industries": {
         "title": "Applications",
@@ -73,7 +73,7 @@
         "title": "What can be printed?",
         "intro": "Were are specialized in 3D printing using Fused Model Deposition (FDM). Here you have a summary of what can and what cannot be done.",
         "materials_title": "Materials",
-        "materials_text": "We mostly use plastic PLA which is made up from plants (biodegradable) and also generates very fine prints. ABS, which is a more traditional plastic, it is used when one requires pieces with greater mechanical resistance or resistance to temperature. If your project needs something more special, we also have a great variety of other materials: imitation wood, imitation metal, flexible material etc.",
+        "materials_text": "We mostly use plastic PLA which is made up from plants (biodegradable) and also generates very fine prints. ABS, which is a more traditional plastic, is used when one requires pieces with greater mechanical resistance or resistance to temperature. If your project needs something more special, we also have a great variety of other materials: imitation wood, imitation metal, flexible material etc.",
         "color_title": "Colors",
         "color_text": "PLA and ABS are available in a wide variety of colors: white, black, red, orange, yellow, green, blue, violet, brown.",
         "size_title": "Size",
@@ -85,11 +85,18 @@
         "title": "Tutorial",
         "intro": "3D Printing with us is very easy and can be done in 3 steps",
         "file_title": "Get a 3D file",
-        "file_text": "The file can be from STL or OBJ format. You can get it from any 3D design program. You Don´t know how to design in 3D or don´t have time? We offer 3D design services. You can also find many designs on the Internet. The site Thingiverse for example already has millions of designs that can be downloaded for free.",
+        "file_text1": "The file can be from STL or OBJ format. You can get it from any 3D design program. You Don´t know how to design in 3D or don´t have time? We offer  ",
+				"file_link": "3D design services. ",
+				"file_text2": "You can also find many designs on the Internet. The site ",
+				"file_text3": "for example already has millions of designs that can be downloaded for free.",
         "quote_title": "Quote",
-        "quote_text": "Send us the design by mail and we will reply you soon with a quote. Here are our contact details",
+        "quote_text1": "Send us the design by mail and we will reply you soon with a quote. ",
+				"quote_link": "Here ",
+				"quote_text2": "are our contact details.",
         "delivery_title": "Delivery",
-        "delivery_text": "You can get your piece by coming to our office or we also offer delivery option. The price depends on the shipping region."
+        "delivery_text1": "You can get your piece by coming to ",
+				"delivery_link": "our office ",
+				"delivery_text2": "or we also offer delivery option. The price depends on the shipping region."		
     },
     "projects": {
         "title": "Some of our Projects"
@@ -121,9 +128,29 @@
         "image": "husky.jpg"
       },
       {
-        "title": "",
+        "title": "National Stadium",
+        "text": "Design & Print of Chilean National Stadium for Moovshake company.",
+        "image": "estadio.jpg"
+      },
+			{
+        "title": "Cup Holders",
+        "text": "For ExeFire, a gift for his clients.",
+        "image": "posavasos.jpg"
+      },
+			{
+        "title": "Masks",
+        "text": "For a private party, with the Venecian Carnaval theme.",
+        "image": "mascaras.jpg"
+      },
+			{
+        "title": "Lego Pieces",
+        "text": "For a Ted Talk in Renca, to be a gift for his participants.",
+        "image": "legos.jpg"
+      },
+			{
+        "title": "Spare Parts",
         "text": "",
-        "image": ""
+        "image": "arma.jpg"
       }
     ],
     "clients": {
