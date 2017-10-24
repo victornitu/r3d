@@ -16,6 +16,23 @@ nav.navbar{
         }
       }
     }
+    .collapse{
+      ul{
+        li{
+          a{
+            i{
+              display:none;
+            }
+            @media (min-width: 992px) {
+            i{
+              display:inline;
+              }
+            }
+          }
+          
+        }
+      }
+    }
   }
   ul#i18n{
     display:none;
@@ -50,6 +67,9 @@ nav.navbar{
   right:50px;
   img{
     width:50px;
+  }
+  li{
+    list-style-type: none;
   }
 }
 

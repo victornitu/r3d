@@ -1,7 +1,8 @@
 {
     "head": {
-        "title": "R3D",
-        "description": "R3D website"
+        "lang": "en",
+        "title": "R3D - 3D Printing Santiago Chile",
+        "description": "Company specialized in 3D printing and 3D design services. We offer corporate gifts, models, engineering parts and much more."
     },
     "header": {
         "title": "3D Printing Santiago",
@@ -61,7 +62,7 @@
         "text": "We are experts in 3D printing by Fusel Model Deposition. This technology allows us to reconstruct any geometric form, layer by layer, starting from a 3D model."
     },
     "printing_industries": {
-        "title": "Applications",
+        "title": "3D Printing Applications",
         "prototypes": "Prototypes",
         "gifts": "Corporate gifts",
         "architecture": "Architecture",
@@ -70,7 +71,7 @@
         "imagination": "Only imagination is your limitation!"
     },
     "printing_limitations": {
-        "title": "What can be printed?",
+        "title": "What can be 3D printed?",
         "intro": "Were are specialized in 3D printing using Fused Model Deposition (FDM). Here you have a summary of what can and what cannot be done.",
         "materials_title": "Materials",
         "materials_text": "We mostly use plastic PLA which is made up from plants (biodegradable) and also generates very fine prints. ABS, which is a more traditional plastic, is used when one requires pieces with greater mechanical resistance or resistance to temperature. If your project needs something more special, we also have a great variety of other materials: imitation wood, imitation metal, flexible material etc.",
@@ -79,13 +80,13 @@
         "size_title": "Size",
         "size_text": "Our printers can print up to 25 x 21 x 20 cm. For bigger things, it can be done in separate parts.",
         "price_title": "Price",
-        "price_text": "The price is calculated from the 3D model. We use a program that estimates the weight the piece will have and we charge per gram. The larger the piece, the more it will weigh and the greater its cost."
+        "price_text": "The price is calculated from the 3D model. We use a program that estimates the weight of the piece and we charge per gram. The larger the piece, the more it will weigh and the greater its cost."
     },
     "printing_tutorial": {
-        "title": "Tutorial",
+        "title": "How to 3D print?",
         "intro": "3D Printing with us is very easy and can be done in 3 steps",
         "file_title": "Get a 3D file",
-        "file_text1": "The file can be from STL or OBJ format. You can get it from any 3D design program. You Don´t know how to design in 3D or don´t have time? We offer  ",
+        "file_text1": "The file can be from STL or OBJ format. You can get it from any 3D design program. You don´t know how to design in 3D or don´t have time? We offer  ",
 				"file_link": "3D design services. ",
 				"file_text2": "You can also find many designs on the Internet. The site ",
 				"file_text3": "for example already has millions of designs that can be downloaded for free.",
@@ -109,12 +110,12 @@
       },
       {
         "title": "Pendrives",
-        "text": "We designed and 3D printed these special USB keys with it's special bottle like shape. For the Distonia Fundation.",
+        "text": "We designed and 3D printed these special bottle-like USB keys for the Distonia Fundation.",
         "image": "pendrive.jpg"
       },
       {
         "title": "Tyrion Lanister",
-        "text": "Reward for the Nerd Night's tomobla organized by the House of Goethe",
+        "text": "Reward for the Nerd Night's tombola organized by the House of Goethe",
         "image": "thyron.jpg"
       },
       {
@@ -124,17 +125,17 @@
       },
       {
         "title": "Husky",
-        "text": "The Husky robot of the Universidad de Chile uses R3D's printed parts in order to mount its sensors.",
+        "text": "The Husky robot of the Universidad de Chile has its sensors mounted thanks to R3D's printed parts.",
         "image": "husky.jpg"
       },
       {
         "title": "National Stadium",
-        "text": "Design & Print of Chilean National Stadium for Moovshake company.",
-        "image": "estadio.jpg"
+        "text": "Design & print of Chilean National Stadium for Moovshake company.",
+        "image": "estadiob.jpg"
       },
 			{
         "title": "Cup Holders",
-        "text": "For ExeFire, a gift for his clients.",
+        "text": "Corporte gifts for ExeFire's clients.",
         "image": "posavasos.jpg"
       },
 			{
@@ -148,7 +149,7 @@
         "image": "legos.jpg"
       },
 			{
-        "title": "Spare Parts",
+        "title": "All kind of spare parts",
         "text": "",
         "image": "arma.jpg"
       }

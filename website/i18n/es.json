@@ -1,7 +1,9 @@
 {
     "head": {
-        "title": "R3D",
-        "description": "Pagina web de R3D"
+        "lang": "es",
+        "title": "R3D - Impresión 3D Santiago Chile",
+        "description": "Empresa especializada en servicios de impresion 3D y diseño 3D. Hacemos regalos corporativos, maquetas, piezas de ingeniería y muchos más"
+      
     },
     "header": {
         "title": "Impresión 3D Santiago",
@@ -61,7 +63,7 @@
         "text": "Somos expertos en impresión 3D por FDM (Fused Model Deposition). Está tecnología permite reconstruir cualquier forma geometrica, capa por capa, a partir de un diseño 3D."
     },
     "printing_industries": {
-        "title": "Aplicaciones",
+        "title": "Aplicaciones de la impresión 3D",
         "prototypes": "Prototipos",
         "gifts": "Regalos corporativos",
         "architecture": "Arquitectura",
@@ -70,7 +72,7 @@
         "imagination": "La única limitación es tu imaginación"
     },
     "printing_limitations": {
-        "title": "Limitaciones de la impresión 3D",
+        "title": "¿Qué se puede imprimir en 3D?",
         "intro": "Estamos especializados en impresión 3D por \"Fused Model Deposition\" (FDM). Aquí tienes un resumen de lo que se puede hacer.",
         "materials_title": "Materiales",
         "materials_text": "Utilizamos el plástico PLA que está hecho a partir de plantas (biodegradable) y además genera impresiones muy finas. El ABS, que es un plástico más tradicional, se usa cuando uno requiere piezas con mayor resistencia mecánica o resistencia a la temperatura. Si tu proyecto necesita algo más especial, también tenemos una gran variedad de otros materiales: imitación madera, imitación metal, filamento flexible etc.",
@@ -82,7 +84,7 @@
         "price_text": "El precio se calcula a partir del modelo 3D. Un programa estima el peso que va a tener la pieza y cobramos por gramo. Más grande la pieza, más va a pesar y mayor será su costo."
     },
     "printing_tutorial": {
-        "title": "Tutorial",
+        "title": "¿Como imprimir en 3D?",
         "intro": "Imprimir en 3D con nosotros es muy fácil y se hace en 3 etapas:",
         "file_title": "Consigue el archivo 3D",
         "file_text1": "El archivo puede ser de formato STL o OBJ. Se puede conseguir a partir cualquier programa de diseño 3D. ¿No sabes diseñar en 3D o no tienes tiempo? Ofrecemos ",
@@ -130,7 +132,7 @@
       {
         "title": "Estadio Nacional",
         "text": "Diseño e impresión del Estadio Nacional de Chile para la empresa Moovshake.",
-        "image": "estadio.jpg"
+        "image": "estadiob.jpg"
       },
 			{
         "title": "Portavasos",
@@ -154,7 +156,7 @@
       }
     ],
     "clients": {
-        "title": "Nos confiaron"
+        "title": "Nuestros clientes"
     },
     "reviews": {
         "next": "Siguiente",
