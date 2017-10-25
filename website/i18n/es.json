@@ -23,11 +23,17 @@
     "design_how": {
         "title": "¿Como diseñamos?",
         "scratch_title": "Diseño a partir de cero",
-        "scratch_text": "Cuéntanos tu proyecto por mail, por teléfono o pasa a visitarnos. En base de tus instrucciones hacemos el diseño.",
+        "scratch_text1": "Cuéntanos tu proyecto por ",
+        "scratch_link1": "mail, por teléfono ",
+        "scratch_text2": "o pasa a ",
+        "scratch_link2": "visitarnos",
+        "scratch_text3": ". En base de tus instrucciones hacemos el diseño.",
         "scanner_title": "Escáner 3D",
         "scanner_text": "Podemos escanear en 3D.",
         "logo_title": "Diseño a partir de una imagen",
-        "logo_text": "También podemos hacer un diseño 3D a partir de una imagen 2D. Puede ser un logo, una imagen o texto. No dudes en contactarnos para contarnos sobre tu proyecto. "
+        "logo_text1": "También podemos hacer un diseño 3D a partir de una imagen 2D. Puede ser un logo, una imagen o texto. No dudes en ",
+        "logo_link": "contactarnos ",
+        "logo_text2":"sobre tu proyecto. "
     },
     "section": {
         "home": "Inicio",

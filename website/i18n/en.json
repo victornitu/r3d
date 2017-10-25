@@ -22,11 +22,17 @@
     "design_how": {
         "title": "How do we design?",
         "scratch_title": "Design from scratch",
-        "scratch_text": "Tell us your project by mail, by phone or visit us. Based on your instructions we make the design.",
+        "scratch_text1": "Tell us your project by ",
+        "scratch_link1": "mail, by phone ",
+        "scratch_text2": "or ",
+        "scratch_link2": "visit us",
+        "scratch_text3": ". Based on your instructions we make the design.",
         "scanner_title": "3D Scan",
         "scanner_text": "We can scan in 3D.",
         "logo_title": "Design from an image",
-        "logo_text": "We can also make a 3D design from a 2D image. It can be a logo, an image or a text. Do not hesitate to contact us and tell us about your project."
+        "logo_text1": "We can also make a 3D design from a 2D image. It can be a logo, an image or a text. Do not hesitate to ",
+        "logo_link": "contact us ",
+        "logo_text2": " and tell us about your project."
     },
     "section": {
         "home": "Home",
