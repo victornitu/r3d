@@ -158,6 +158,21 @@
         "title": "All kind of spare parts",
         "text": "",
         "image": "arma.jpg"
+      },
+      {
+        "title": "Containers",
+        "text": "The containers floors are made from a filament that contains real wood.",
+        "image": "contenedores.jpg"
+      },
+      {
+        "title": "Casino Viña del Mar",
+        "text": "Design and 3D printing of 30 mini-casinos for marketing uses.",
+        "image": "casinos.jpg"
+      },
+      {
+        "title": "Ragnar Lothbrok",
+        "text": "3D print and painting of a bust of Ragnar. One of the main characters of the series 'Vikings'.",
+        "image": "ragnar.jpg"
       }
     ],
     "clients": {

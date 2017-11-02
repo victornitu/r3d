@@ -96,15 +96,15 @@
         "file_text1": "El archivo puede ser de formato STL o OBJ. Se puede conseguir a partir cualquier programa de diseño 3D. ¿No sabes diseñar en 3D o no tienes tiempo? Ofrecemos ",
         "file_link": "servicios de diseño 3D. ",
         "file_text2": " ¿No sabes diseñar en 3D o no tienes tiempo? Ofrecemos servicios de diseño 3D. También se puede encontrar muchos diseños en Internet. El sitio ",
-				"file_text3": " por ejemplo ya tiene millones de diseños que se pueden descargar de forma gratuita. ",
+		"file_text3": " por ejemplo ya tiene millones de diseños que se pueden descargar de forma gratuita. ",
         "quote_title": "Cotiza tu diseño",
         "quote_text1": "Envíanos el diseño por mail y te contestaremos en la brevedad con una cotización. ",
-				"quote_link": "Aquí ",
-				"quote_text2": "están nuestros datos de contacto. ",
+		"quote_link": "Aquí ",
+		"quote_text2": "están nuestros datos de contacto. ",
         "delivery_title": "Recibe tu pieza",
         "delivery_text1": "Puedes pasar a buscar tu pieza en ",
-				"delivery_link": "nuestra oficina ",
-				"delivery_text2": "o también tenemos opción de despacho. El precio depende de la región de despacho."
+		"delivery_link": "nuestra oficina ",
+		"delivery_text2": "o también tenemos opción de despacho. El precio depende de la región de despacho."
     },
     "projects": {
         "title": "Unos de nuestros proyectos"
@@ -155,10 +155,25 @@
         "text": "Para charla Ted en Renca, como regalo para los que atienden.",
         "image": "legos.jpg"
       },
-			{
+      {
         "title": "Repuestos Varios",
         "text": "",
         "image": "arma.jpg"
+      },
+      {
+        "title": "Contenedores a medida",
+        "text": "Los pisos de estos contenedores están hechos con un filamento que contiene madera de verdad.",
+        "image": "contenedores.jpg"
+      },
+      {
+        "title": "Casino Viña del Mar",
+        "text": "Diseño e impresión 3D de estos 30 mini-casinos que sirvieron para fines de marketing.",
+        "image": "casinos.jpg"
+      },
+      {
+        "title": "Ragnar Lothbrok",
+        "text": "Modelo de Ragnar de la serie 'Vikingos' impreso y pintado en R3D.",
+        "image": "ragnar.jpg"
       }
     ],
     "clients": {
