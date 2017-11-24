@@ -84,8 +84,8 @@
         "materials_text": "Utilizamos el plástico PLA que está hecho a partir de plantas (biodegradable) y además genera impresiones muy finas. El ABS, que es un plástico más tradicional, se usa cuando uno requiere piezas con mayor resistencia mecánica o resistencia a la temperatura. Si tu proyecto necesita algo más especial, también tenemos una gran variedad de otros materiales: imitación madera, imitación metal, filamento flexible etc.",
         "color_title": "Colores",
         "color_text": "PLA y ABS están disponible en una gran variedad de colores: blanco, negro, rojo, naranja, amarillo, verde, azul, violeta, marón.",
-        "size_title": "Tamano",
-        "size_text": "Nuestras impresoras pueden imprimir piezas hasta un tamaño de 25 x 21 x 20 cm. Para cosas más grandes, se pueden hacer en varias partes.",
+        "size_title": "tamaño",
+        "size_text": "Nuestras impresoras pueden imprimir piezas hasta un tamaño máximo de 25 x 21 x 20 cm. Para cosas más grandes, se pueden hacer en varias partes.",
         "price_title": "Precio",
         "price_text": "El precio se calcula a partir del modelo 3D. Un programa estima el peso que va a tener la pieza y cobramos por gramo. Más grande la pieza, más va a pesar y mayor será su costo."
     },
