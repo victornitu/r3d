@@ -5,7 +5,7 @@
         "description": "Company specialized in 3D printing and 3D design services. We offer corporate gifts, models, engineering parts and much more."
     },
     "header": {
-        "title": "3D Printing Santiago",
+        "title": "R3D - 3D Printing Santiago",
         "subtitle": "We are a Belgian-Chilean company specialized in 3D printing",
         "action": "Quote your project here"
     },
@@ -110,19 +110,9 @@
     },
     "our_projects":[
       {
-        "title": "Mini Entel Towers",
-        "text": "We designed and 3D printed the Entel Towers of Melon's marketing campaign on the social networks.",
-        "image": "melon_instagram.jpg"
-      },
-      {
-        "title": "Pendrives",
-        "text": "We designed and 3D printed these special bottle-like USB keys for the Distonia Fundation.",
-        "image": "pendrive.jpg"
-      },
-      {
-        "title": "Tyrion Lanister",
-        "text": "Reward for the Nerd Night's raffle organized by the House of Goethe",
-        "image": "thyron.jpg"
+        "title": "Casino Viña del Mar",
+        "text": "Design and 3D printing of 30 mini-casinos for marketing uses.",
+        "image": "casinos.jpg"
       },
       {
         "title": "Keychains",
@@ -130,34 +120,19 @@
         "image": "llaveros.jpg"
       },
       {
-        "title": "Husky",
-        "text": "The Husky robot of the Universidad de Chile has its sensors mounted thanks to R3D's printed parts.",
-        "image": "husky.jpg"
-      },
-      {
-        "title": "National Stadium",
-        "text": "Design & print of Chilean National Stadium for Moovshake company.",
-        "image": "estadiob.jpg"
-      },
-			{
-        "title": "Cup Holders",
-        "text": "Corporate gifts for ExeFire's clients.",
-        "image": "posavasos.jpg"
-      },
-			{
-        "title": "Masks",
-        "text": "For a private party, with the Venecian Carnaval theme.",
-        "image": "mascaras.jpg"
-      },
-			{
         "title": "Lego Pieces",
         "text": "For a Ted Talk in Renca, to be a gift for his participants.",
         "image": "legos.jpg"
       },
-			{
-        "title": "All kind of spare parts",
-        "text": "",
-        "image": "arma.jpg"
+      {
+        "title": "Pendrives",
+        "text": "We designed and 3D printed these special bottle-like USB keys for the Distonia Fundation.",
+        "image": "pendrive.jpg"
+      },
+      {
+        "title": "Cup Holders",
+        "text": "Corporate gifts for ExeFire's clients.",
+        "image": "posavasos.jpg"
       },
       {
         "title": "Containers",
@@ -165,14 +140,39 @@
         "image": "contenedores.jpg"
       },
       {
-        "title": "Casino Viña del Mar",
-        "text": "Design and 3D printing of 30 mini-casinos for marketing uses.",
-        "image": "casinos.jpg"
+        "title": "Mini Entel Towers",
+        "text": "We designed and 3D printed the Entel Towers of Melon's marketing campaign on the social networks.",
+        "image": "melon_instagram.jpg"
+      },
+      {
+        "title": "National Stadium",
+        "text": "Design & print of Chilean National Stadium for Moovshake company.",
+        "image": "estadiob.jpg"
+      },
+      {
+        "title": "Husky",
+        "text": "The Husky robot of the Universidad de Chile has its sensors mounted thanks to R3D's printed parts.",
+        "image": "husky.jpg"
+      },
+      {
+        "title": "All kind of spare parts",
+        "text": "",
+        "image": "arma.jpg"
       },
       {
         "title": "Ragnar Lothbrok",
         "text": "3D print and painting of a bust of Ragnar. One of the main characters of the series 'Vikings'.",
         "image": "ragnar.jpg"
+      },
+      {
+        "title": "Masks",
+        "text": "For a private party, with the Venecian Carnaval theme.",
+        "image": "mascaras.jpg"
+      },
+      {
+        "title": "Tyrion Lanister",
+        "text": "Reward for the Nerd Night's raffle organized by the House of Goethe",
+        "image": "thyron.jpg"
       }
     ],
     "clients": {
