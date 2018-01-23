@@ -6,9 +6,9 @@
       
     },
     "header": {
-        "title": "R3D - Impresión 3D - Santiago",
+        "title": "Impresión 3D Santiago",
         "subtitle": "Somos una empresa Belga-Chilena especializada en impresión 3D",
-        "action": "Cotiza tu proyecto aquí"
+        "action": "Cotiza tu proyecto online"
     },
     "contact_info": {
         "email": "Email",
@@ -66,7 +66,10 @@
         "title": "Servicios de impresión 3D"
     },
     "printing_intro": {
-        "text": "Somos expertos en impresión 3D por FDM (Fused Model Deposition). Está tecnología permite reconstruir cualquier forma geometrica, capa por capa, a partir de un diseño 3D."
+        "text1": "Somos expertos en impresión 3D por FDM (Fused Model Deposition). Está tecnología permite reconstruir cualquier forma geometrica, capa por capa, a partir de un diseño 3D.",
+        "text2": "¿Ya sabes de que estamos hablando? Cotiza tu proyecto ",
+        "link": "online",
+        "text3": "."
     },
     "printing_industries": {
         "title": "Aplicaciones de la impresión 3D",
@@ -98,13 +101,15 @@
         "file_text2": " ¿No sabes diseñar en 3D o no tienes tiempo? Ofrecemos servicios de diseño 3D. También se puede encontrar muchos diseños en Internet. El sitio ",
 		"file_text3": " por ejemplo ya tiene millones de diseños que se pueden descargar de forma gratuita. ",
         "quote_title": "Cotiza tu diseño",
-        "quote_text1": "Envíanos el diseño por mail y te contestaremos en la brevedad con una cotización. ",
-		"quote_link": "Aquí ",
-		"quote_text2": "están nuestros datos de contacto. ",
+        "quote_text1": "Puedes cotizar ",
+        "quote_link1": "online",
+        "quote_text2": ", subiendo tu(s) archivo(s) por internet (los textos están en inglés y los precios en USD). También nos puedes enviar el diseño por mail y te contestaremos en la brevedad con una cotización. ",
+		"quote_link2": "Aquí ",
+		"quote_text3": "están nuestros datos de contacto. ",
         "delivery_title": "Recibe tu pieza",
         "delivery_text1": "Puedes pasar a buscar tu pieza en ",
 		"delivery_link": "nuestra oficina ",
-		"delivery_text2": "o también tenemos opción de despacho. El precio depende de la región de despacho."
+		"delivery_text2": "o también tenemos opción de despacho. El costo depende de la región de despacho."
     },
     "projects": {
         "title": "Unos de nuestros proyectos"

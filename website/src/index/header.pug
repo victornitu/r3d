@@ -1,10 +1,14 @@
-.index
+.index#header
   header.business-hero
     .container
       h2.customFadeInUp
         | #{i18n.header.title}
       p.customFadeInUp
         | #{i18n.header.subtitle}
-      .actions.customFadeInUp
-        a.btn-pill.btn-pill-primary.btn-pill-lg(href='contact.html#contact_info')
+      .actions.customFadeInUp#quote
+        a(href='https://www.3dhubs.com/service/181970', data-3dhubs-widget='button', data-hub-id='181970', data-type='orderWidget', data-color='light', data-size='large', data-text='Cotiza tu modelo online') 
           | #{i18n.header.action}
+script(src='../js/3dhubs.js')
+
+
+
