@@ -6,7 +6,7 @@
       p.customFadeInUp
         | #{i18n.header.subtitle}
       .actions.customFadeInUp
-        a(href='https://www.3dhubs.com/service/181970', data-3dhubs-widget='button', data-hub-id='181970', data-type='orderWidget', data-color='light', data-size='large', data-text='Cotiza tu modelo online') 
+        a(href='https://www.3dhubs.com/service/181970', data-3dhubs-widget='button', data-hub-id='181970', data-type='orderWidget', data-color='light', data-size='large', data-text='Cotiza tu modelo online', onClick="ga('send', 'event', 'online quote', 'click', 'printing');") 
           | #{i18n.header.action}
 script(src='../js/3dhubs.js')
 
