@@ -8,7 +8,7 @@
     "header": {
         "title": "Impresión 3D Santiago",
         "subtitle": "Somos una empresa Belga-Chilena especializada en impresión 3D",
-        "action": "Cotiza tu proyecto online"
+        "action": "Cotiza tu proyecto"
     },
     "contact_info": {
         "email": "Email",
@@ -68,7 +68,7 @@
     "printing_intro": {
         "text1": "Somos expertos en impresión 3D por FDM (Fused Model Deposition). Está tecnología permite reconstruir cualquier forma geometrica, capa por capa, a partir de un diseño 3D.",
         "text2": "¿Ya sabes de que estamos hablando? Cotiza tu proyecto ",
-        "link": "online",
+        "link": "aquí",
         "text3": "."
     },
     "printing_industries": {
@@ -103,7 +103,7 @@
         "quote_title": "Cotiza tu diseño",
         "quote_text1": "Puedes cotizar ",
         "quote_link1": "online",
-        "quote_text2": ", subiendo tu(s) archivo(s) por internet (los textos están en inglés y los precios en USD). También nos puedes enviar el diseño por mail y te contestaremos en la brevedad con una cotización. ",
+        "quote_text2": "Nos puedes enviar el diseño por mail y te contestaremos en la brevedad con una cotización. ",
 		"quote_link2": "Aquí ",
 		"quote_text3": "están nuestros datos de contacto. ",
         "delivery_title": "Recibe tu pieza",

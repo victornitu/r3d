@@ -7,7 +7,7 @@
     "header": {
         "title": "3D Printing Santiago",
         "subtitle": "We are a Belgian-Chilean company specialized in 3D printing",
-        "action": "Quote your project online"
+        "action": "Quote your project here"
     },
     "contact_info": {
         "email": "Email",
@@ -77,7 +77,7 @@
         "architecture": "Architecture",
         "decoration": "Decoration",
         "gadgets": "Useful tools",
-        "imagination": "Only imagination is your limitation!"
+        "imagination": "Only imagination is your limitation"
     },
     "printing_limitations": {
         "title": "What can be 3D printed?",
@@ -102,7 +102,7 @@
         "quote_title": "Quote",
         "quote_text1": "You can quote online ",
         "quote_link1": "here ",
-        "quote_text2": ". Or you can also send us the design by mail and we will reply you soon with a quote. ",
+        "quote_text2": "You can send us the design by mail and we will reply soon with a quote. ",
         "quote_link2": "Here ",
         "quote_text3": "are our contact details.",      
         "delivery_title": "Delivery",
