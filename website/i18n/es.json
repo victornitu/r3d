@@ -66,8 +66,8 @@
         "title": "Servicios de impresión 3D"
     },
     "printing_intro": {
-        "text1": "Somos expertos en impresión 3D por FDM (Fused Model Deposition). Está tecnología permite reconstruir cualquier forma geometrica, capa por capa, a partir de un diseño 3D.",
-        "text2": "¿Ya sabes de qué estamos hablando? Cotiza tu proyecto ",
+        "text1": "Somos expertos en impresión 3D por FDM (Fused Model Deposition). Esta tecnología permite reconstruir cualquier forma geométrica, capa por capa, a partir de un diseño 3D.",
+        "text2": "¿Sabes de qué estamos hablando? Cotiza tu proyecto ",
         "link": "aquí",
         "text3": "."
     },
@@ -77,7 +77,7 @@
         "gifts": "Regalos corporativos",
         "architecture": "Arquitectura",
         "decoration": "Decoración",
-        "gadgets": "Objectos utiles",
+        "gadgets": "Objetos útiles",
         "imagination": "La única limitación es tu imaginación"
     },
     "printing_limitations": {
