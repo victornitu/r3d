@@ -135,11 +135,6 @@
         "image": "pendrive.jpg"
       },
       {
-        "title": "Cup Holders",
-        "text": "Corporate gifts for ExeFire's clients.",
-        "image": "posavasos.jpg"
-      },
-      {
         "title": "Containers",
         "text": "The containers floors are made from a filament that contains real wood.",
         "image": "contenedores.jpg"
@@ -155,14 +150,9 @@
         "image": "estadiob.jpg"
       },
       {
-        "title": "Husky",
+        "title": "Husky Robot",
         "text": "The Husky robot of the Universidad de Chile has its sensors mounted thanks to R3D's printed parts.",
         "image": "husky.jpg"
-      },
-      {
-        "title": "All kind of spare parts",
-        "text": "",
-        "image": "arma.jpg"
       },
       {
         "title": "Ragnar Lothbrok",
@@ -170,14 +160,29 @@
         "image": "ragnar.jpg"
       },
       {
+        "title": "Magic sticks",
+        "text": "Design and 3D printing of magic sticks for an event for the company Tyb Marketing.",
+        "image": "varitas.jpg"
+      },
+      {
+        "title": "Cup Holders",
+        "text": "Corporate gifts for ExeFire's clients.",
+        "image": "posavasos.jpg"
+      },
+      {
         "title": "Masks",
         "text": "For a private party, with the Venecian Carnaval theme.",
         "image": "mascaras.jpg"
       },
       {
-        "title": "Tyrion Lanister",
+        "title": "Tyrion Lannister",
         "text": "Reward for the Nerd Night's raffle organized by the House of Goethe",
         "image": "thyron.jpg"
+      },
+      {
+        "title": "All kind of spare parts",
+        "text": "",
+        "image": "arma.jpg"
       }
     ],
     "clients": {

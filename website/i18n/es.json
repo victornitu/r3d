@@ -136,11 +136,6 @@
         "image": "pendrive.jpg"
       },
       {
-        "title": "Portavasos",
-        "text": "Para la empresa ExeFire, un regalo para sus clientes.",
-        "image": "posavasos.jpg"
-      },
-      {
         "title": "Contenedores a medida",
         "text": "Los pisos de estos contenedores están hechos con un filamento que contiene madera de verdad.",
         "image": "contenedores.jpg"
@@ -157,14 +152,9 @@
         "image": "estadiob.jpg"
       },
       {
-        "title": "Husky",
+        "title": "Robot Husky",
         "text": "El robot Husky de la Universidad de Chile tiene sus sensores puestos gracias a piezas impresas por R3D",
         "image": "husky.jpg"
-      },
-      {
-        "title": "Repuestos Varios",
-        "text": "",
-        "image": "arma.jpg"
       },
       {
         "title": "Ragnar Lothbrok",
@@ -172,14 +162,29 @@
         "image": "ragnar.jpg"
       },
       {
+        "title": "Varitas para evento",
+        "text": "Diseñamos e imprimimos 40 varitas para un evento para la empresa Tyb Marketing.",
+        "image": "varitas.jpg"
+      },
+      {
+        "title": "Portavasos",
+        "text": "Para la empresa ExeFire, un regalo para sus clientes.",
+        "image": "posavasos.jpg"
+      },
+      {
         "title": "Mascaras",
         "text": "Para una fiesta privada, con la temática del carnaval de Venecia.",
         "image": "mascaras.jpg"
       },
       {
-        "title": "Tyrion Lanister",
+        "title": "Tyrion Lannister",
         "text": "Premio en Nerd Night organizada por la Casa de Goethe.",
         "image": "thyron.jpg"
+      },
+      {
+        "title": "Repuestos Varios",
+        "text": "",
+        "image": "arma.jpg"
       }
     ],
     "clients": {
