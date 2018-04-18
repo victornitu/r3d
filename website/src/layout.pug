@@ -4,11 +4,7 @@ html(lang=`${i18n.head.lang}`)
     // Global site tag (gtag.js) - Google Analytics
     script(async='', src='https://www.googletagmanager.com/gtag/js?id=UA-82348627-2')
     script(src='../js/3dhubs.js')
-    script.
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-82348627-2');
+    script(src='../js/gtag.js')
     title #{i18n.head.title}
     meta(charset='utf-8')
     meta(http-equiv='X-UA-Compatible', content='IE=edge')
