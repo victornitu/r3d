@@ -4,10 +4,10 @@
     "es"
   ],
   "pages": [
-    "home",
-    "printing",
-    "design",
-    "projects",
-    "contact"
+    "index",
+    "impresion3d",
+    "diseno",
+    "proyectos",
+    "contacto"
   ]
 }
