@@ -9,33 +9,33 @@ nav.navbar.navbar-expand-md.navbar-dark.bg-transparent(role='navigation')
     #navbar-collapse.collapse.navbar-collapse.justify-content-end
       ul.navbar-nav
         li.nav-item.active.dropdown
-          a.nav-link.dropdown-toggle(href='home.html') #{i18n.section.home}
+          a.nav-link.dropdown-toggle(href='index.html') #{i18n.section.home}
             i.ion-chevron-down
           .dropdown-menu(role='menu')
-            a.dropdown-item(href='home.html#services') #{i18n.section.services}
-            a.dropdown-item(href='home.html#reviews') #{i18n.section.reviews}
-            a.dropdown-item(href='home.html#clients') #{i18n.section.clients}
+            a.dropdown-item(href='index.html#servicios') #{i18n.section.services}
+            a.dropdown-item(href='index.html#recomendaciones') #{i18n.section.reviews}
+            a.dropdown-item(href='index.html#clientes') #{i18n.section.clients}
         li.nav-item.dropdown
-          a.nav-link.dropdown-toggle(href='printing.html') #{i18n.section.printing_3d}
+          a.nav-link.dropdown-toggle(href='impresion3d.html') #{i18n.section.printing_3d}
             i.ion-chevron-down
           .dropdown-menu(role='menu')
-            a.dropdown-item(href='printing.html#printing_industries') #{i18n.section.printing_industries}
-            a.dropdown-item(href='printing.html#printing_limitations') #{i18n.section.printing_limitations}
-            a.dropdown-item(href='printing.html#printing_tutorial') #{i18n.section.printing_tutorial}
+            a.dropdown-item(href='impresion3d.html#aplicaciones') #{i18n.section.printing_industries}
+            a.dropdown-item(href='impresion3d.html#limitaciones') #{i18n.section.printing_limitations}
+            a.dropdown-item(href='impresion3d.html#tutorial') #{i18n.section.printing_tutorial}
         li.nav-item.dropdown
-          a.nav-link.dropdown-toggle(href='design.html') #{i18n.section.design_3d}
+          a.nav-link.dropdown-toggle(href='diseno.html') #{i18n.section.design_3d}
             i.ion-chevron-down
           .dropdown-menu(role='menu')
-            a.dropdown-item(href='design.html#design_introduction') #{i18n.section.design_introduction}
-            a.dropdown-item(href='design.html#design_how') #{i18n.section.design_how}
+            a.dropdown-item(href='diseno.html#introduccion') #{i18n.section.design_introduction}
+            a.dropdown-item(href='diseno.html#como') #{i18n.section.design_how}
         li.nav-item.dropdown
-          a.nav-link.dropdown-toggle(href='projects.html') #{i18n.section.projects}
+          a.nav-link.dropdown-toggle(href='proyectos.html') #{i18n.section.projects}
         li.nav-item.dropdown
-          a.nav-link.dropdown-toggle(href='contact.html') #{i18n.section.contact}
+          a.nav-link.dropdown-toggle(href='contacto.html') #{i18n.section.contact}
             i.ion-chevron-down
           .dropdown-menu(role='menu')
-            a.dropdown-item(href='contact.html#contact_info') #{i18n.section.contact_info}
-            a.dropdown-item(href='contact.html#contact_map') #{i18n.section.contact_map}
+            a.dropdown-item(href='contact.html#info') #{i18n.section.contact_info}
+            a.dropdown-item(href='contact.html#mapa') #{i18n.section.contact_map}
     ul#i18n
       each lang in languages
         li
