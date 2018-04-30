@@ -1,7 +1,7 @@
 script(src='../js/smooth_scroll.js')
 nav.navbar.navbar-expand-md.navbar-dark.bg-transparent(role='navigation')
   .container.no-override
-    a.navbar-brand(href='home.html')
+    a.navbar-brand(href='index.html')
       .logo_r3d
         img.d-lg-inline.mr-2.w-25(src='../images/logos/logo_white.png')
     button.navbar-toggler(data-toggle='collapse', data-target='#navbar-collapse')
@@ -26,7 +26,7 @@ nav.navbar.navbar-expand-md.navbar-dark.bg-transparent(role='navigation')
           a.nav-link.dropdown-toggle(href='diseno.html') #{i18n.section.design_3d}
             i.ion-chevron-down
           .dropdown-menu(role='menu')
-            a.dropdown-item(href='diseno.html#introduccion') #{i18n.section.design_introduction}
+            a.dropdown-item(href='diseno.html#intro') #{i18n.section.design_introduction}
             a.dropdown-item(href='diseno.html#como') #{i18n.section.design_how}
         li.nav-item.dropdown
           a.nav-link.dropdown-toggle(href='proyectos.html') #{i18n.section.projects}
@@ -34,11 +34,11 @@ nav.navbar.navbar-expand-md.navbar-dark.bg-transparent(role='navigation')
           a.nav-link.dropdown-toggle(href='contacto.html') #{i18n.section.contact}
             i.ion-chevron-down
           .dropdown-menu(role='menu')
-            a.dropdown-item(href='contact.html#info') #{i18n.section.contact_info}
-            a.dropdown-item(href='contact.html#mapa') #{i18n.section.contact_map}
+            a.dropdown-item(href='contacto.html#info') #{i18n.section.contact_info}
+            a.dropdown-item(href='contacto.html#mapa') #{i18n.section.contact_map}
     ul#i18n
       each lang in languages
         li
-          a(href=`../${lang}/home.html`)
+          a(href=`../${lang}/index.html`)
             img(src=`../images/${lang}.png`)
 
