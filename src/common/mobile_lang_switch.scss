@@ -1,0 +1,18 @@
+.mobile_lang_switch{
+  position: absolute;
+  z-index:10;
+  top: 100px;
+  right:50px;
+  img{
+    width:50px;
+  }
+  li{
+    list-style-type: none;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .mobile_lang_switch{
+    display:none;
+  }
+}

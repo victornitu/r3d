@@ -9,7 +9,7 @@ function collapseNavbar() {
       console.log('2');
     } else {
         $(".navbar").addClass("bg-transparent");
-        $(".navbar").removeClass(".not_transparent");
+        $(".navbar").removeClass("not_transparent");
     }
 }
 
