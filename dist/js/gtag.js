@@ -1,10 +1,9 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82348627-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-82348627-2');
-  gtag('config', 'AW-828605834');
-</script>
 
+  gtag('config', 'UA-82348627-2');
+</script>
