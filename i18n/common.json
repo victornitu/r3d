@@ -44,5 +44,9 @@
   "address":{
     "line1": "Avenida Providencia 1208, Oficina 1303",
     "line2": "Providencia, R.M. Santiago Chile"
+  },
+  "numbers":{
+    "fix":"+56 2 3232 7509",
+    "mobile":"+56 9 9383 7005"
   }
 }
