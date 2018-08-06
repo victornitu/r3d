@@ -1,6 +1,6 @@
 $(function () {
   // Google maps
-  var mapLocation = new google.maps.LatLng(-33.442552,-70.62585310000003);
+  var mapLocation = new google.maps.LatLng(-33.428931,-70.621343);
   var map = new GMaps({
   streetViewControl : false,
   overviewMapControl: false,

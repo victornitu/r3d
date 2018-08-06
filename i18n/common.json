@@ -40,5 +40,9 @@
       "text": "Roger provided an excellent print, a great service with a good speed!",
       "author": "Federico"
     }
-  ]
+  ],
+  "address":{
+    "line1": "Avenida Providencia 1208, Oficina 1303",
+    "line2": "Providencia, R.M. Santiago Chile"
+  }
 }

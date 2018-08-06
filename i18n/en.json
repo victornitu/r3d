@@ -104,11 +104,11 @@
         "quote_link1": "here ",
         "quote_text2": "You can send us the design by mail and we will reply soon with a quote. ",
         "quote_link2": "Here ",
-        "quote_text3": "are our contact details.",      
+        "quote_text3": "are our contact details.",
         "delivery_title": "Delivery",
         "delivery_text1": "You can get your piece by coming to ",
         "delivery_link": "our office ",
-        "delivery_text2": "or we also offer delivery option. The price depends on the shipping region."		
+        "delivery_text2": "or we also offer delivery option. The price depends on the shipping region."
     },
     "projects": {
         "title": "Some of our Projects"
@@ -198,8 +198,6 @@
     "footer": {
         "description": "3D Printing services and development of engineering projects.",
         "address_title": "Address",
-        "address_line1": "Avenida Italia 850, Providencia",
-        "address_line2": "R.M. Santiago Chile",
         "contact_title": "Contact"
     },
     "a": {
